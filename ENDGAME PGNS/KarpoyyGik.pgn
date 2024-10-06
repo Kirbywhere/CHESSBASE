@@ -1,0 +1,2614 @@
+[Event "Tablas. K y G p.13"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "R.Reti II"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/k6p/2P5/K7/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c6 h5 (2...Kb6 2.Kb4 h5 3.Kc4 Kxc6 4.Kd4 ) 2.Kb4 Kb6 (3...h4 3.Kc5! h3 4.Kd6 )
+3.Kc4 h4 4.Kd5! Kc7 5.Ke4 1/2-1/2
+
+
+[Event "Tablas. KyG. p.11"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "R.Reti"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg7! h4 2.Kf6! Kb6 (3...h3 3.Ke7 h2 4.c7 Kb7 5.Kd7 ) 3.Ke5! Kxc6 (4...h3 4.Kd6
+h2 5.c7 Kb7 6.Kd7 ) 4.Kf4 h3 5.Kg3 h2 6.Kxh2 1/2-1/2
+
+
+[Event "Tablas. K y G. p.13"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "G.Adamson"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7K/k1P5/p7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 a4 2.Kf5 Kb6 (3...a3 3.Ke6! ) 3.Ke5 Kxc6 (4...a3 4.Kd6 a2 5.c7 ) 4.Kd4 Kb5
+5.Kc3 1/2-1/2
+
+
+[Event "Tablas. K y G p.13"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "K.Feiter"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/8/p7/1k6/5P2/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb7! a5 2.Kc7 Kc5 3.Kd7 Kd5 4.Ke7 Ke4 5.Ke6 a4 (6...Kxf4 6.Kd5 ) 6.f5 a3 7.f6
+1/2-1/2
+
+
+[Event "Tablas. K y G. p.14"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "L.Prokes"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3K4/7p/3k4/P7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 Kc6 2.Kb8! Kb5 3.Kb7 Kxa5 4.Kc6 h5 5.Kd5 1/2-1/2
+
+
+[Event "San Petersburgo. Tablas KyG p.14"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Lasker, E"]
+[Black "Tarrasch, S"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6K1/8/ppp2k2/8/1P6/1P5P/8 w - - 0 40"]
+[TimeMode "normal"]
+
+40.h4! Kg4 41.Kg6! Kxh4 42.Kf5 Kg3 43.Ke4 Kf2 44.Kd5 Ke3 45.Kxc5 Kd3 46.Kxb5 Kc2
+47.Kxa5 Kxb3 1/2-1/2
+
+
+[Event "Tablas. K y G . p.15"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Yates, F"]
+[Black "Marshall, F"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/pK6/8/5P2/1k6 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Kb2! 2.Kxa4 Kc3! 3.f4 Kd4 1/2-1/2
+
+
+[Event "Tablas. K y G p.15"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "D.Golberg."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p3k2K/8/8/8/8/7P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h4 Kf6 2.h5 Kg5 3.Kg7 Kxh5 4.Kf6 a5 5.Ke5 1/2-1/2
+
+
+[Event "Tablas K y G p.15"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "I.Moravec"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/k7/7K/3P4/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg4 b5 2.d4 b4 3.d5! Kb5 4.d6! Kc6 5.Kf5! Kxd6 (6...b3 6.Ke6 b2 7.d7 ) 6.Ke4
+1/2-1/2
+
+
+[Event "Tablas K y G p.16"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/7p/8/2P5/K7/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb5! h5 2.Kc6! Kc8 3.Kd5 1/2-1/2
+
+
+[Event "Blancas ganan. K y G. p.16"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "I.Maiselis"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p4K2/P7/8/8/8/1k6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke6! Kc3 2.Kd5!! Kb4 3.Kc6 Ka5 4.Kb7 Kb5 5.Kxa7 Kc6 6.Kb8 1-0
+
+
+[Event "Blancas ganan K y G p.17"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "O.Duras"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/7k/8/1K6/8/1P6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc5! g5 (2...Kg6 2.b4 Kf7 (3...Kf6 3.Kd6! ) 3.b5 Ke7 4.Kc6! Kd8 5.Kb7 g5 6.b6
+g4 7.Ka7 g3 8.b7 g2 9.b8=Q+ ) 2.b4 g4 3.Kd4 Kg5 4.b5 g3 (5...Kf4 5.b6 g3 6.b7 g2
+7.b8=Q+ ) 5.Ke3 Kg4 6.b6 Kh3 7.b7 g2 8.Kf2 Kh2 9.b8=Q+ 1-0
+
+
+[Event "Moscú   K y G . p.18"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "19"]
+[White "Korchnoi, V"]
+[Black "Karpov, A"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/P1K5/8/8/6k1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kd3! (1.Kd4 Kf2 2.Ke5 Ke3 3.Kxf5 Kd4 $10 ) 2...Kh2! (2...Kf2 2.a5 f4 3.a6 f3
+4.a7 Kg1 5.a8=Q f2 6.Qg8+ Kh1 7.Ke2 $18 ) 2.a5 f4 3.a6 f3 4.Ke3! Kg2 5.a7 f2
+6.a8=Q+ 1-0
+
+
+[Event "Tablas K y G p.18"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "R.Reti III"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/k1P2p1p/7K/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 Kb6 (2...h5 2.Kxg7 h4 3.Kxf6 h3 4.Ke7 h2 5.c7 h1=Q 6.c8=Q+ ) (2...f5
+2.Kxg7 f4 3.Kf6 f3 (4...Kb6 4.Ke5 f3 5.Kd6 ) 4.Ke7 ) 2.Kxg7 h5 (3...f5 3.Kf6 f4
+4.Ke5 f3 5.Kd6 ) 3.Kxf6 h4 4.Ke5 h3 5.Kd6 1/2-1/2
+
+
+[Event "Tablas. K y G. p.19"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "E.Pogosjanz."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7p/k1P2p2/8/8/3K4/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke4! Kb6 (2...h5 2.Kd5 (2.Kf5 Kb6 3.Kxf6 h4 4.Ke5! )) 2.Kf5! (2.Kd5 Kc7 3.Ke6
+h5 $19 ) 3...h5 3.Kxf6 h4 4.Ke5! 1/2-1/2
+
+
+[Event "Tablas. K y G p.19"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "T.Dawson"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/P7/8/7p/KP4p1/8/6P1/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb5 Kxa7 (2...h4 2.Ka6 h3 3.b5 {Seguido de mate.} ) (2...Kb7 2.a8=Q+ Kxa8
+3.Kc6 Kb8 4.Kd5 $10 ) 2.Kc6 Kb8 (3...h4 3.Kc7 Ka6 4.Kc6 Ka7 5.Kc7 h3 6.b5 )
+3.Kd5 h4 4.Ke4 h3 5.gxh3 gxh3 6.Kf3 1/2-1/2
+
+
+[Event "Tablas. K y G p.20"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgijev"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2p4K/8/7k/8/8/6PP/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g4+! (1.h4? c5! 2.g4+ Kxh4 3.Kg6 Kxg4 $19 ) 2...Kg5! (2...Kxg4 2.Kg6 c5 3.h4!
+Kxh4 4.Kf5 $10 ) 2.Kg7! (2.h4+? Kxh4 3.Kg6 Kxg4 4.Kf6 Kf4 $19 ) 3...c5 3.h4+
+Kxg4 (4...Kxh4 4.Kf6 c4 5.g5 $10 ) 4.Kg6 c4 (5...Kxh4 5.Kf5 $10 ) 5.h5 1/2-1/2
+
+
+[Event "Tablas. K y G p.20"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "W.Korolkov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1K5p/8/P1kPP3/8/3p4/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e6 Kd6 2.e7 Kxe7 3.Kc7 d2 4.d6+ Ke6 5.d7 d1=Q 6.d8=Q Qxd8+ 7.Kxd8 Kd6 8.Kc8
+Kc6 9.Kb8 Kb5 10.Kb7 Kxa5 11.Kc6 h5 12.Kd5 1/2-1/2
+
+
+[Event "Tablas KyG p.21"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "T.Gorgijev"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3p2kP/7p/5P2/6K1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f6+ Kxh7 2.Kf5! Kg8 3.Kg6 d5! 4.Kf5 h5 5.Ke6! Kf8 6.Kxd5 h4 7.Ke4 1/2-1/2
+
+
+[Event "Blancas ganan  KyG p.21"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "A.Rink"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/P4p2/k6K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a4 Kb3! 2.a5 Kc3! (3...Kc4 3.a6 Kd3 4.a7 f2 5.a8=Q f1=Q 6.Qa6+ $18 ) 3.Kg1! (
+3.a6? Kd2! $10 ) (3.Kg3? Kd4! $10 ) 4...Kd4 4.a6 Ke3 5.Kf1 1-0
+
+
+[Event "Blancas ganan. K y G pag.22"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/7p/6Pp/2p3kP/K7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g5! (1.gxh5? c2 2.Kb2 c1=Q+ 3.Kxc1 Kxh3 4.h6 Kg2 5.h7 h3 6.h8=Q h2 $10 )
+2...Kf4! 2.g6 Ke3 (3...c2 3.Kb2 Kg5 4.g7 Kh6 5.g8=R! ) 3.g7 c2 4.g8=Q c1=Q
+5.Qg5+ 1-0
+
+
+[Event "Blancas ganan KyG p.22"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/7k/K7/p1p2P2/7P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb3! (1.Kxa3? Kg5 2.Kb3 Kf4 3.h4 Kxf3 4.h5 Ke4 5.h6 Kd3 $10 ) 2...a2! 2.Kxa2
+Kg5 3.Kb1!! Kf4 4.h4 Kxf3 5.h5 Ke4 6.h6 Kd3 7.Kc1! 1-0
+
+
+[Event "Blancas ganan KyG p.23"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "R.Reti"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5N2/B1pK4/1p6/k7/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke4! (1.Kc4 b3 2.Ne4 b2 3.Nc3 b1=Q 4.Nxb1+ Ka4 $10 ) 2...b3 2.Nd5 b2 3.Nc3 Kb3
+4.Kd3 c4+ 5.Kd2 1-0
+
+
+[Event "Tablas. KyG p.23"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "W.Achontov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1K6/4k3/6P1/1p5P/8/8/n7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h6! Kf6 2.h7 Kg7 3.Kc7! b4 4.Kd6! Nc3! (5...b3 5.Ke7! b2 6.h8=Q+ Kxh8 7.Kf7
+b1=Q 8.g7+ Kh7 9.g8=Q+ ) 5.Kc5! b3 6.Kb4! b2 7.Ka3! b1=Q (8...b1=B 8.Kb2 )
+8.h8=Q+ Kxh8 9.g7+ Kh7 10.g8=Q+ Kxg8 1/2-1/2
+
+
+[Event "Juega el negro,tablas KyG p.24"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "A.Kuznezov, B.Ryvkin"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6P1/8/8/6K1/B7/p2k4/5b2 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Be2+ (2...Bh3+ 2.Kh4 ) (2...a1=Q 2.Bc1+! (2.g8=Q? Be2+ 3.Kf5 Bd3+! 4.Kf4
+Qd4+ 5.Kf3 Be4+ $19 ) 3...Qxc1 3.g8=Q Be2+ 4.Kf5! Bd3+ 5.Kf6! $10 ) 2.Kh4!! (
+2.Kf4? a1=Q 3.Bc1+ Kc2! 4.g8=Q Qd4+ 5.Kf5 Bd3+ 6.Ke6 (6.Kg5 Qg1+ ) 7...Bc4+ $19 )
+(2.Kg5 a1=R! (3...a1=Q 3.Bc1+! Qxc1 4.g8=Q Qg1+ 5.Kh6! Qxg8 $10 ) 3.g8=Q Rg1+
+4.Kh6 Rxg8 5.Kh7 $19 ) (2.Kg3 a1=R? (3...a1=Q 3.Bc1+ Qxc1 4.g8=Q Qg1+ ) 3.Bc1+!
+Rxc1 4.g8=Q Rg1+ 5.Kf2 Rxg8 $10 ) 3...a1=Q (3...a1=R 3.Bc1+! Rxc1 4.g8=Q Rh1+
+5.Kg3! Rg1+ 6.Kf2 Rxg8 $10 ) 3.Bc1+! Qxc1 4.g8=Q Qh1+ 5.Kg5 Qg1+ 6.Kh6! Qxg8 $10
+1/2-1/2
+
+
+[Event "Blancas ganan KyG p.24"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "G.Sachodjakin"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/3k1K2/8/B6p/n7/8/1P6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nb6+ Kc6! (2...Nxb6 2.Bxb6 Kc6 3.Bf2 Kb5 4.Kg6 Kb4 5.Kxh5 Kb3 6.Bd4 $18 )
+2.Nxa4 (2.Nc4! Kb5 3.b3 Nc5 ) 3...Kb5 3.Bc3! Kxa4 4.Ke6! h4 5.Kd5! h3 (6...Kb3
+6.Ke4 $18 ) 6.Kc4 h2 7.Bb4 h1=Q 8.b3# 1-0
+
+
+[Event "Blancas ganan KyG p.25"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "I.Moravez"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/6p1/8/7p/8/8/R7/6k1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kh7! h4 (2...g5 2.Kg6 g4 3.Kg5! g3 4.Kh4! g2 5.Kh3 Kh1 6.Rxg2 ) 2.Kg6! h3
+3.Kg5 h2 4.Kg4 h1=Q (5...h1=N 5.Kf3 g5 6.Rd2 g4+ 7.Kxg4 Nf2+ 8.Kf3 Nh1 9.Ra2 )
+5.Kg3 1-0
+
+
+[Event "Tablas KyG p.25"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "L.Mitrofanov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n7/P7/K7/5P2/3n2p1/8/8/4k3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb7 g3 2.Kxa8 Nb5 3.Kb7! (3.f6 g2 4.f7 g1=Q 5.f8=Q Qxa7# ) 4...Nxa7 4.f6! Nb5
+5.Kc6! Nd4+ 6.Kd5 Nf5 7.f7 Ne7+ 8.Ke4 Ng6 9.Kf3 1/2-1/2
+
+
+[Event "Tablas KyG p.26"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "W.Pomogalov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/2P5/b2p1P1k/p7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ka7 Bc8 2.Kb8! Be6 3.c8=Q Bxc8 4.Kc7!! (4.Kxc8 Kg6 5.Kd7 Kxf6 $19 ) 5...Kg6
+5.Kxd6! Kxf6 6.Kc5 1/2-1/2
+
+
+[Event "Tablas KyG p.26"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/1p6/8/8/3K1n2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke2! (1.Kc2 Ne3+ 2.Kb3 Nd5 $19 ) 2...Kd7 (2...b3 2.Kd3 Ne3 3.Kc3 $10 ) 2.Kd3
+Ne3! 3.Kxe3 Kc6 4.Kd3 Kb5 5.Kc2 Ka4 6.Kb2 1/2-1/2
+
+
+[Event "Tablas KyG p.27"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p7/K1p2Pk1/6PR/3N2P1/8/6q1/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rh6+! Kxg5 (2...Kf7 2.Rh7+ $16 ) 2.Ne6+! Kxh6 3.g5+ Kh7 4.g6+ Qxg6 (5...Kxg6
+5.Nf4+ ) (5...Kh6 5.f7 Qa2+ 6.Kb7 Qxe6 7.f8=Q+ Kxg6 8.Kxa7 ) 5.Nf8+ (5.f7? Qxf7!
+(6...Qxe6 6.f8=N+! )) 6...Kh6 6.Nxg6 Kxg6 7.Kb7!! (7.Kxa7? c5 8.Kb6 c4 9.Kc5
+c3 $19 ) 8...a5 (8...c5 8.Kc6! c4 9.Kd5! c3 10.Ke6! c2 11.f7 c1=Q 12.f8=Q $10 )
+8.Kxc6 a4 9.Kd5! a3 10.Ke6! a2 11.f7 a1=Q 12.f8=Q 1/2-1/2
+
+
+[Event "Karpov y Gik"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Asaba,A"]
+[Black "pag.28"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/3R4/5k2/K3pP1P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd3+ Kxf2 2.Rd2 Kf3 3.Rxe2 (3.Rd3+ Kf4 4.Rd4+ Kf5 5.Rd5+ Ke6 ) 4...Kxe2 4.h4
+Kd3 5.h5 Kc2 6.Ka3 Kc3 7.h6 b4+ 8.Ka4 b3 9.h7 b2 10.h8=Q+ 1-0
+
+
+[Event "Tablas. KyG p.28"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Sarytschev,A. y K."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1pPK3b/8/8/8/5k2/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 b5 2.Kd7 b4 3.Kd6 Bf5 4.Ke5 Bc8 5.Kd4 1/2-1/2
+
+
+[Event "Tablas. K y G p.29"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti,R"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5K2/k7/4P1p1/8/8/8/4b3/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke7 g5 2.Kd6 (2.Kf6 g4 3.e7 Bb5 ) 3...g4 3.e7 (3.Kc5 g3 4.e7 Bh5 ) 4...Bb5
+4.Kc5 Be8 5.Kd4 Kb7 6.Ke4 Kc7 7.Kf4 1/2-1/2
+
+
+[Event "Tablas. K y G p.29"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/k4pp1/2P4p/5P1K/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f6 gxf6 (2...g5 2.Kxh6 g4 3.Kg7 g3 4.Kxf7 g2 5.Ke7 g1=Q 6.f7 ) 2.Kxh6 Kb6 (
+3...Kb8 3.Kh5 (3.Kg7 f5 4.Kf6 f4 5.Ke5 f3 6.Kd6 Kc8 ) 4...Kc7 4.Kg4 Kxc6 5.Kf5 )
+3.Kg7 f5 4.Kf6 f4 5.Ke5 f3 6.Kd6 f2 7.c7 f1=Q 8.c8=Q Qf6+ 9.Kd5 1/2-1/2
+
+
+[Event "Tablas. K y G pag.30"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K1bn/1p1N4/2P5/1r6/8/5k2/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c7 Nf7 2.Ke7 Nd6 3.Kxd6 Rd5+ 4.Ke7 Rxd7+ 5.Kxd7 Bh7 6.Kc8 b5 7.Kd7 b4 8.Kd6
+Bf5 9.Ke5 Bc8 10.Kd4 1/2-1/2
+
+
+[Event "Blancas ganan. K y G p.31"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/P5p1/5pr1/3R4/bk3B1K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd1+ (1.Kh2 Be5 ) 2...Ka2 2.Rxa1+ Kxa1 3.Kh2 (3.a5 f2 ) 4...Rh3+ 4.Bxh3 gxh3
+5.Kg3 (5.Kxh3 ) 6...h2 6.Kxh2 Kb2 7.a5 Kc3 8.Kg1 Kd4 9.a6 Ke3 10.Kf1 *
+
+
+[Event "Blancas ganan. K y G p.31"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Troizki,A"]
+[Black "1895"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/4p2p/6P1/3K4/5B2/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Bh6+ Kg8 2.g7 Kf7 (3...e5 3.Ke6 e4 4.Kf6 e3 5.Bxe3 ) (3...e6+ 3.Kd6 Kf7 4.Ke5
+Kg8 5.Kf6 ) 3.g8=Q+ Kxg8 4.Ke6 Kh8 5.Kf7 e5 6.Bg7# 1-0
+
+
+[Event "Blancas Ganan. K y G. pag.32"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1986"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B5/pP1pK3/1qk5/R7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ra6 Qxa6 (2...Kc7 2.Rxb6 axb6 3.Kf6 b5 4.Ke5 b4 5.Ke4 (5.Kd4 d5 6.Kd3 Kb8
+7.Kc2 d4 8.Kb3 (8.Kd3 b3 ) 9...d3 ) 6...d6 6.Kd3 d5 7.Kd4 Kb8 8.Kxd5 b3 9.Kc6 b2
+10.Bf5 ) 2.b8=N+ Kc7 3.Bxa6 Kxb8 4.Kd6 Ka8 5.Kc7 d5 6.Bb7# 1-0
+
+
+[Event "Tablas. KyG pag.32"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sinar,M"]
+[Black "1982"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5K1p/1kP5/2p5/2P5/8/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg7 (1.Kf6 Kxc6 2.Kg5 Kb6 3.Kh6 Ka5 4.Kxh7 Kb4 5.Kg6 Kxc4 6.Kf5 Kc3 7.Ke5 c4
+8.a4 Kb4 ) 2...h5 2.Kf6 h4 3.Ke5 Kxc6 4.Kf4 Kb6 5.Kg4 Ka5 6.Kxh4 Kb4 7.Kg3 (
+7.Kg4 Kxc4 8.Kf3 Kd3 9.a4 c4 10.a5 c3 11.a6 c2 12.a7 c1=Q 13.a8=Q Qh1+ )
+8...Kxc4 8.Kf2 (8.Kf3 Kd3 9.a4 c4 10.a5 c3 11.a6 c2 12.a7 c1=Q 13.a8=Q Qh1+ )
+9...Kc3 9.Ke2 c4 10.a4 1/2-1/2
+
+
+[Event "Tablas. KyG p.33"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1985"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/k4pKp/P1p5/1Pp5/2P5/8/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.bxc6 (1.a4 cxb5 ) 2...Kb6 (2...Kxa6 2.Kxh7 Kb6 3.Kg7 f5 4.Kf6 f4 5.Ke5 f3
+6.Kd6 f2 7.c7 ) 2.a7 Kxa7 3.Kxf7 (3.Kxh7 f5 4.Kg6 f4 5.Kf5 (5.Kf6 Kb8 ) 6...f3
+6.Ke6 f2 7.c7 f1=Q 8.c8=Q Qh3+ ) 4...Kb6 4.Kg7 h5 5.Kf6 h4 6.Ke5 Kxc6 7.Kf4 Kb6
+8.Kg4 Ka5 9.Kxh4 Kb4 10.Kg3 Kxc4 11.Kf2 Kc3 12.Ke2 c4 13.a4 1/2-1/2
+
+
+[Event "Simul.Moscu. KyG p.34"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Neistadt,W"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5n2/3b1p2/p4Pk1/3PP3/3N4/7P/7K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e6 Nxe6 (2...fxe6 2.Nxe6 Nxe6 3.dxe6 Bxe6 ) 2.Nxe6 fxe6 (3...Bxe6 ) 3.dxe6
+Bxe6 4.Kg3 Kxf6 (5...a5 5.Kf4 a4 6.Ke5! a3 7.Kxe6 (7.Kd4 a2 8.Kc3 ) 8...a2
+8.f7 $10 {Tablas.} ) 5.Kf4 Bf5! 6.Ke3 Ke5 7.Kd2 Kd4 8.Kc1 Kc3
+{Y el posterior camino del rey blanco hacia la esquina es impedido.} 0-1
+
+
+[Event "Moscu. KyG pag.36"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Bronstein,D"]
+[Black "Botvinnik,M"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3N4/1p6/8/p7/2P2k2/1KP1p3/8/8 w - - 0 57"]
+[TimeMode "normal"]
+
+57.Kc2 {Con la vaga esperanza de una victoria, el blanco acerca su rey al peón
+enemigo. Naturalmente que al gran maestro le resultaba evidente que el rey
+negro podía alcanzar la casilla f2, pero consideró para ello sólo la línea
+directa Rf4-f3-f2, para lo cual daba por hecho que él entonces podría traer su
+caballo (Ce6 y Cd4+). ¡Que grande, sin embargo, fue su sorpresa cuando el rey
+negro se dirigió de hecho a f2, pero no en camino directo, sino sobre una línea
+en zig-zag! Después de:} (57.Ne6+ {Y 58.Cd4 hubiera conseguido fáciles tablas.} )
+58...Kg3! {El blanco tiene que abandonar en seguida, ya que el peón e no puede
+ser ya detenido.} (58...Kg3 58.Ne6 e2
+{y el caballo no puede dar jaque desde d4.} 59.Kd2 Kf2!! ) (58...Kf3 58.Ne6
+{Vainshtein vio en esta la única jugada blanca y dijo que hubiera el blanco
+perdido también si el negro hace la directa Rf4-f3-f2.} (58.Nf7! {Jugada
+analizada por Botvinnik y que demuestra que sólo la ingeniosa maniobra
+Rf4-g3-f2 facilita la victoria al negro.} 59...e2 59.Ne5+ Kf2 60.Nd3+ Kf1 61.Kb3
+{Y el blanco consigue tablas. En el final de peones:} 62...e1=Q 62.Nxe1 Kxe1
+63.Ka4 {El rey negro se encuentra en comparación con los "antiguos" análisis
+algo más lejos (en e1), y esto cambia la valoración de la posición.} ) 59...e2
+59.Nd4+ Kf2 60.Nxe2 Kxe2 {Y el final de peones es desesperado para el blanco.}
+61.Kb3 b6! 62.Ka4 Kd3 63.Kb5 a4! 64.Kxa4 Kxc4 $17 ) 0-1
+
+
+[Event "Blancas ganan. KyG p.39"]
+[Site "?"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Steinitz,W"]
+[Black "1862"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4K3/6PP/8/7B/8/8/7r w - - 0 1"]
+[TimeMode "normal"]
+
+1.h7+ Kg7 2.h8=Q+ Kxh8 3.Kf7 Rf1+ 4.Bf6+ Rxf6+ 5.Kxf6 Kg8 6.g7 *
+
+
+[Event "Tablas. KyG p.40"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Benko,P"]
+[Black "1982"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/5b2/8/8/8/6pp/4k3/7K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd4 (1.Kg1 h2+ 2.Kg2 (2.Kh1 Bg6 3.Rd4 Ke3 ) 3...Bh5 3.Rh8 (3.Rf8 Bf3+ 4.Rxf3
+h1=Q+ 5.Kxh1 Kxf3 ) 4...h1=Q+ 4.Kxh1 Kf2 5.Rf8+ Bf3+ 6.Rxf3+ Kxf3 ) 2...Bh5
+2.Rh4 (2.Re4+ ) 3...Kf2 3.Rg4 g2+ 4.Kh2 Bxg4 *
+
+
+[Event "Blancas ganan. KyG p.40"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1894"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/2P2R2/k7/8/8/8/2r2p2/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb8 Rb2+ 2.Ka8 Rc2 3.Rf6+ Ka5 4.Kb7 Rb2+ 5.Ka7 Rc2 6.Rf5+ Ka4 7.Kb7 Rb2+ 8.Ka6
+Rc2 9.Rf4+ Ka3 10.Kb6 Rb2+ 11.Ka5 Rc2 12.Rf3+ Ka2 13.Rxf2 Rxf2 14.c8=Q *
+
+
+[Event "Blancas ganan.KyG p.41"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Kopajev,N"]
+[Black "1953"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/1K1P4/8/1k6/8/6r1/7p/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rf5+ (1.d8=Q h1=Q+ 2.Kb8 Rb3 ) (1.Rh8 Rd3 2.Rh5+ Ka4 3.Kc6 Rc3+ 4.Kb6 Rb3+
+5.Ka6 Rd3 ) (1.Rf1 Rd3 2.Kc7 Rc3+ 3.Kd8 Rg3 ) 2...Ka4 2.Ra5+ Kb4 (3...Kxa5
+3.d8=Q+ Kb5 4.Qd5+ Ka4 (5...Kb4 5.Qd2+ ) 5.Qa2+ ) 3.Rh5 Rd3 4.Kc6 Rc3+ 5.Kb6 Rd3
+6.Rh4+ Ka3 7.Kc7 Rc3+ 8.Kd8 Rc2 9.Ke7 Re2+ 10.Kd6 Rd2+ 11.Kc6 Rc2+ 12.Kb5 Rb2+
+13.Ka5 Rd2 14.Rh3+ Kb2 15.Rxh2 *
+
+
+[Event "Blancas ganan. KyG p.41"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres,Paul"]
+[Black "1947"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1K2p3/R3P2P/p7/8/8/8/r7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 a4 (2...Rd1 2.Ra7 a4 3.Rxe7 a3 4.Rg7+ Kh8 5.Rg2 ) 2.Kd7 a3 3.Kxe7 a2 4.Ra7
+Kh8 5.h7 Kxh7 6.Ke8+ Kg6 7.e7 Kh5 (8...Kh7 8.Ra3 Kg7 (9...Kg6 9.Rg3+ Kh5 (
+10...Kf5 10.Rg2 Ke4 11.Kf7 Rf1+ 12.Kg6 a1=Q 13.e8=Q+ ) 10.Rg2 Kh4 11.Rd2 )
+9.Rg3+ Kh7 10.Rg2 Kh8 11.Rd2 Kg7 12.Kd7 ) 8.Ra3 Kh4 9.Ra5 Kg4 (10...Kh3 10.Ra4 )
+10.Kf7 Rf1+ 11.Kg6 Re1 12.Ra4+ Kh3 13.Kf6 Rf1+ 14.Kg5 Rg1+ 15.Kh5 Re1 16.Ra3+
+Kg2 17.Rxa2+ Kf3 18.Ra7 Re6 19.Kg5 Ke4 20.Rc7 Ke5 21.Rd7 Ke4 22.Rd1 Kf3 23.Rf1+
+Ke2 24.Rf7 Ke3 25.Kf5 *
+
+
+[Event "Moscu. Ganan Negras. KyG. p42"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Zaitsev,I"]
+[Black "Dvoretzky,M analisis"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P7/8/7K/r7/8/4p3/4k3 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Ra6 2.Kg5 (2.Kg4 Rg6+ 3.Kf5 Rg7 4.Kf6 Rh7 5.Ke6 Rb7 6.Ke5 (6.Kd6 Kd1 ) (
+6.Kf6 Kf1 ) 7...Re7+ 7.Kd6 Kd1 8.Kxe7 e1=Q+ 9.Kd7 Qa5 ) 3...Kf2 3.Rf8+ Kg3 4.Re8
+Ra5+ 5.Kh6 Kf3 6.Rf8+ Kg4 7.Rg8+ Kh4 8.Re8 Ra6+ 9.Kg7 Rxa7+ 10.Kf6 Ra2 11.Re3
+Kg4 12.Ke5 Rb2 (13...Rc2 ) 13.Ke4 Rd2 14.Ke5 Rd8 15.Kf6 Rf8+ 16.Ke7 Rf2 17.Ke6
+Kf4 *
+
+
+[Event "Blancas ganan. KyG p.43"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Moravec,I"]
+[Black "1908"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/2P5/8/8/8/2R4P/Kp5r/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb1 Rg2 2.Rc4 (2.Rc2 Rxc2 3.Kxc2 Kxc7 ) 3...Rh2 3.h4 Rg2 4.Rc5 Rh2 5.h5 Rg2
+6.Rc6 Rh2 7.h6 Rg2 8.h7 Rh2 9.Ra6 Kxc7 10.Ra8 Rxh7 11.Ra7+ *
+
+
+[Event "Blancas ganan. KyG p.43"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kalandadse,W"]
+[Black "1975"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/2k5/6K1/P4R2/5p1r/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 Rg3+ 2.Kh6 Rh3+ 3.Kg7 Rg3+ 4.Kh8 Kb6 5.Rf5 Rh3 6.a5+ Ka6 7.a3 Rg3 8.a4 Ka7
+9.Rf6 Kb7 10.a6+ Ka7 11.a5 Ka8 12.Rf7 Kb8 13.a7+ Ka8 14.a6 *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1892"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/k1r1NPK1/8/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f7 Rxe6+ (2...Rc8 2.Nc7+ ) 2.Kg5 Re5+ 3.Kg4 Re4+ 4.Kg3 Re3+ 5.Kf2 *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1894"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4KN1N/8/8/8/8/2P5/8/1n3k2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c4 Nd2 2.c5 Nb3 3.c6 Nd4 4.c7 Nb5 5.c8=N *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1895"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pP2q3/8/Q7/8/6bP/6P1/2R4K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rc8+ Rxc8 2.Qxa7+ Kxa7 3.bxc8=N+ *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1895"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/5B2/4KpQp/5Pb1/8/8/2p5/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Bg8 Rxg8 2.Kf7 Rxg6 3.fxg6 h5 4.g7+ Kh7 5.g8=Q+ Kh6 6.Qg6# 1-0
+
+
+[Event "Blancas ganan. KyG p.45"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Lasker,E y Reichhelm,K"]
+[Black "1901"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k7/3p4/p2P1p2/P2P1P2/8/8/K7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb1 (1.Kb2 Ka8 ) 2...Kb7 (2...Kb6 2.Kc2 ) 2.Kc1 Kc8 3.Kd2 Kb7 4.Kc3 Kc7 5.Kd3
+Kb7 6.Ke3 Kc7 7.Kf3 Kd7 8.Kg3 Ke7 9.Kh4 Kf6 10.Kh5 *
+
+
+[Event "Blancas ganan. KyG p.45"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1921"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/k1p2p2/P1Pp1p1p/KP1PpP1P/4P3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb3 (1.b5+ cxb5+ 2.Kb4 Kb7 3.Kxb5 a6+ ) 2...Kb7 2.a6+ Kxa6 (3...Kc7 3.Ka4 Kd7
+4.b5 Kc7 5.bxc6 Kc8 6.c7 Kxc7 7.Kb5 Kd7 8.c6+ Kd6 9.c7 Kxc7 10.Kc5 ) 3.Ka4 Kb7
+4.b5 a6 (5...cxb5+ 5.Kxb5 Kc7 6.Ka6 Kb8 7.c6 Ka8 8.Kb5 Kb8 9.Kc5 ) 5.bxc6+ Kxc6
+6.Ka5 Kb7 7.c6+ Kxc6 8.Kxa6 Kc7 9.Kb5 *
+
+
+[Event "Blancas ganan. KyG p45"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "1908"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7r/2p2pp1/2p3p1/k5p1/3KN1p1/8/1R6 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc4 Ka5 2.Kxc5 Ka6 3.Kxc6 Ka7 4.Nd5 Rh2 5.Nc3 f5 6.Rb7+ Ka6 (7...Ka8 ) 7.Rb6+
+Ka5 8.Rb5+ Ka6 9.Rb4 Ka7 10.Nb5+ Kb8 11.Nd6+ Ka8 12.Nc4 Ra2 13.Kc7 Ra7+ (
+14...g2 ) 14.Kc8 Ra6 15.Rb8+ Ka7 16.Rb7+ Ka8 17.Nb6+ Rxb6 18.Rxb6 Ka7 19.Rb1 f4
+20.Kc7 Ka6 21.Kc6 Ka5 22.Kd5 f3 23.Ke4 Ka4 24.Ke3 *
+
+
+[Event "Berlin. Ky G p.46"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "Lasker,Emanuel"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1R1K4/k1n5/Np6/1P1n4/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nxc7 Nxc7 2.Ra8+ (2.Kxc7 ) (2.Kc8 Nxb5 ) 3...Nxa8 (3...Kxa8 3.Kxc7 Ka7 4.Kc6
+Ka8 5.Kxb6 ) 3.Kc8 (3.Kc8 Nc7 4.Kxc7 ) 1-0
+
+
+[Event "Blancas ganan. KyG p.47"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Liburkin,M"]
+[Black "1934"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kn3n2/8/1p1K4/1P5R/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rh8 Nfd7 2.Kc7 Ka7 3.Re8 Nf6 4.Rxb8 Ne8+ 5.Kd7 Nc7 6.Ra8+ Nxa8 7.Kc8 *
+
+
+[Event "Blancas ganan. KyG p.47"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1981"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3K1n1/5p2/5kpP/3n4/6P1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h7 Kg7 2.h8=Q+ Kxh8 3.Kxf7 Ne7 4.g5 Kh7 5.Rd8 Nc6 6.Rxg8 Nd8+ 7.Ke7 Nf7 8.Rh8+
+Nxh8 9.Kf8 *
+
+
+[Event "Los Angeles. KyG p.48"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "Steiner"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q2r1/pp2n1kp/2p1pp2/4p2Q/4P2N/2PP4/P1P3PP/R4R1K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rxf6 Kxf6 2.Rf1+ Nf5 3.Nxf5 exf5 4.Rxf5+ Ke7 5.Qf7+ Kd6 6.Rf6+ Kc5 7.Qxb7 Qb6
+8.Rxc6+ Qxc6 9.Qb4# 1-0
+
+
+[Event "Blancas ganan. KyG p.48"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Olimpijev,S"]
+[Black "1982"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3q3/3k4/2p2p2/p1R1p2r/8/1Q5P/2p2P2/2R1K3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rxc6 Kxc6 2.Rxc2+ Kd6 3.Qb6+ Kd5 (4...Ke7 4.Rc7+ Kf8 5.Qxf6+ ) 4.Qb7+ Kd6 (
+5...Kd4 5.Rd2+ Kc5 6.Qc7+ Kb5 7.Rb2+ ) 5.Qc7+ Kd5 (6...Ke6 6.Rc6+ Kf5 7.Qg7 Qg8 (
+8...Rxh3 8.Rxf6+ Ke4 9.Qg2+ Kd4 10.Rd6+ Kc3 11.Qxh3+ Kb4 12.Rb6+ Kc4 13.Qb3+ )
+8.Rxf6+ Ke4 9.Qb7+ Qd5 10.f3+ Kd4 11.Qb6+ Kc3 12.Rc6+ ) 6.Rd2+ Ke6 7.Rd6+ Kf5
+8.Qg7 Qg6 9.Rxf6+ Qxf6 10.Qg4# 1-0
+
+
+[Event "Blancas ganan.KyG p.49"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "1924"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k3p1p/3P2p1/8/3K2P1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g5 Kc6 2.Ke5 Kd7 3.Kd5 Kd8 4.Kc6 *
+
+
+[Event "Blancas ganan. K y G p.49"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "1933"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kp2/4p1p1/P1p5/1pP3r1/3R4/1P1K1P2/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a6 Rh4 (2...Rg1 2.a7 Ra1 3.Ra3 bxa3 4.a8=Q axb2 5.Qb7+ ) 2.Rd8 Kxd8 3.a7 *
+
+
+[Event "Paris. KyG p.49"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "Colle,E"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/8/6P1/P4P1P/2R1R1K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Qxd7 Rxd7 2.Re8+ Kh7 3.Rcc8 1-0
+
+
+[Event "Blancas ganan. KyG p.50"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1940"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppp2p2/8/4k3/8/4K3/PPP4P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a4 a5 2.c4 c5 3.b3 b6 4.h4 Kf5 5.Kf3 Ke5 6.Kg4 Ke4 7.h5 f5+ 8.Kh3 f4 9.h6 f3
+10.h7 f2 11.Kg2 *
+
+
+[Event "Blancas ganan. KyG p.51"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1924"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p7/P3p1p1/3p2P1/3P1PP1/7K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg1 Kg7 2.Kf1 Kf7 3.Ke1 Ke7 4.Kf2 Kf6 5.Ke2 Ke6 (6...Kg6 6.Kd2 ) 6.f4 exf4
+7.gxf4 gxf4 8.Kf3 Ke5 9.g5 Kf5 10.g6 Kxg6 11.Kxf4 *
+
+
+[Event "Tablas. KyG p.51"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1940"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K6k/R7/8/8/8/8/5p1p/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ra1 Kg7 2.Kb7 Kf6 3.Kc6 Ke5 4.Kc5 Ke4 5.Kc4 Ke3 6.Rh1 Kf3 7.Kd3 Kg2 8.Ke2 Kxh1
+9.Kxf2 (9.Kf1 ) 1/2-1/2
+
+
+[Event "Holanda. KyG p.51"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "Alekhine"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/5pk1/1R5p/6pP/1p1r2P1/5P2/5K2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke2 Rf3 2.Ke1 (2.Rd5 Rf5 3.Rd2 Rb5 ) (2.Rb7 Kf5 3.Rb5+ Ke4 4.Rxh5 Kd4 5.Rb5
+Kc4 6.Rb8 Rf5 7.Ke3 Kc3 8.Rc8+ Kb2 9.Rh8 Kc2 10.Rc8+ Kb1 11.Rh8 b2 12.h5 Rf3+
+13.Kd2 Ka2 14.Ra8+ Ra3 15.Rb8 b1=Q ) 3...f5 (3...Rc3 3.Kd2 Rc2+ 4.Ke3 b2 5.f3 )
+3.Rb6+ Kf7 4.Rh6 f4 (5...Rc3 5.Kd2 (5.Rxh5 b2 6.Rh7+ Kg6 7.Rb7 Rc1+ ) 6...Rc2+
+6.Ke3 b2 7.Rb6 Ke7 8.f4 Kd7 9.Kd4 Kc7 10.Rb3 Kc6 11.Rb8 Rg2 12.Rb3 Rxg3 13.Rxb2
+Rh3 14.Ke5 Rxh4 15.Rg2 Rh3 16.Kxf5 g3 17.Ke4 h4 18.Kf3 Kd6 19.Re2 Rh1 20.f5 Rf1+
+21.Kg4 Rf2 22.Re1 g2 23.Rg1 ) 5.Rxh5 Rc3 6.Rb5 f3 7.Kd2 Rc2+ 8.Ke3 b2 9.Kf4 Rc4+
+10.Ke3 Rc2 1/2-1/2
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1956"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N1k5/1p4pp/1P6/P3K3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nc5 Kd5 2.Nb7 Ke5 3.Nd8 g4 4.Nb7 Kd5 5.Kf4 Kc6 6.Nc5 Kd5 7.Ne4 h4 8.Nf6+ Kc4
+9.Nxg4 Kb3 10.Ne5 Kxa3 11.Nc6 *
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Botvinnik,M+Kaminer,S"]
+[Black "1925"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6q1/6b1/4p2k/8/3n1P2/Q2B2P1/K7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g4+ Kh4 2.Bh6 Qxh6 3.Qh2+ Kg5 4.Qd2+ Nf4 5.Qd8# 1-0
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1939"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/p7/p2p2K1/P2P4/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kf5 (1.Kf5 Kb6 2.Ke5 Kc6 3.Ke6 Kc7 4.Kxd5 Kd7 5.Kc5 Kc7 6.d5 Kd7 7.Kb6 Kd6
+8.Kxa6 Kxd5 9.Kxa5 Kc6 ) 2...Kb6 (2...Kc6 2.Ke6 ) (2...Kc7 2.Ke5 ) 2.Kf6 Kb7
+3.Kf7 Kb8 (4...Kb6 4.Ke8 Kc6 5.Kd8 ) 4.Ke6 Kc7 5.Ke7 Kc6 6.Kd8 Kd6 7.Kc8 Kc6
+8.Kb8 Kb6 9.Ka8 *
+
+
+[Event "Blancas ganan. KyG p.53"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1941"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/2R1P3/6k1/6p1/8/8/4r3/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e8=Q+ (1.Rc2 Re4 2.e8=Q+ Rxe8+ 3.Kxe8 Kf5 4.Rg2 g4 5.Kf7 Kf4 6.Kg6 g3 7.Kh5
+Kf3 ) 2...Rxe8+ 2.Kxe8 Kf5 3.Rg7 g4 4.Kf7 Kf4 5.Kg6 g3 6.Kh5 Kf3 7.Kh4 g2 8.Kh3
+*
+
+
+[Event "Negras juegan,blancas ganan.KyGp.53"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1944"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kpK/8/6P1/1b5N/7P/8/8 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Bd2 2.Nf3 Bc3 (3...Bf4 3.h4 Bg3 4.h5 Bf4 5.g6+ Kf6 6.Ne5 Bxe5 (7...Kxe5
+7.Kxg7 ) 7.h6 ) 3.h4 Bb2 4.h5 Bc3 5.Nh4 (5.g6+ Ke6 ) 6...Bd2 6.g6+ (6.h6 g6 )
+7...Kf6 7.Nf5 Kxf5 8.Kxg7 Kg5 9.Kh7 Bc3 10.h6 *
+
+
+[Event "Blancas ganan. KyG p.54"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1945"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5pk1/1p5p/1P5P/8/6P1/6K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kf2 Kf5 2.Kf3 Ke5 3.g4 hxg4+ 4.Kxg4 Ke4 5.h5 f5+ 6.Kh3 f4 7.h6 f3 8.h7 f2
+9.Kg2 *
+
+
+[Event "Blancas ganan. KyG p.54"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1949"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5B2/K7/2R1P3/k7/2r5/1b2p3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e7 Re4 2.Rc5+ Ka4 3.Rf5 e2 4.Rf4 e1=Q 5.e8=Q+ *
+
+
+[Event "Blancas ganan. KyG p.55"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1952"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/6p1/8/2K2PP1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kd5 Kf8 (2...Kh6 2.Ke5 Kg7 3.Kd6 Kf8 4.Kd7 Kg7 5.Ke8 Kg8 6.Ke7 Kg7 7.f5 g5
+8.Ke8 ) 2.Kd6 Ke8 3.f5 g5 4.Kc7 Ke7 5.Kc8 Kd6 6.Kd8 Ke5 7.Ke7 f6 8.Kf7 Kf4
+9.Kxf6 Kxg4 10.Kg6 *
+
+
+[Event "Tablas. KyG p.55"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1952"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4kpp1/8/2KPP3/8/6P1/n7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.d5+ (1.Kc3 f5 2.d5+ Kf6 (3...Ke5 ) 3.exf5 Kxf5 4.Kb2 Ke5 5.Kxa1 Kxd5 6.Kb2 Kd4
+7.Kc2 Ke3 ) 2...Ke5 2.Kc3 f5 3.d6 Kxd6 4.exf5 gxf5 5.g4 fxg4 6.Kd4 Ke6 7.Ke4 Nc2
+8.Kf4 *
+
+
+[Event "Moscu. K y G p.56"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kotov,A"]
+[Black "Botvinnik,M"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/4b1p1/2Bp3p/5P1P/1pK1Pk2/8/8 b - - 0 2"]
+[TimeMode "normal"]
+
+2...g5 2.fxg5 (2.hxg5 h4 3.Bd6 Bf5 4.g6 Bxg6 5.f5 Bxf5 6.Kxb3 Kg2 ) 3...d4+
+3.exd4 (3.Bxd4 Kg3 4.g6 Kxh4 5.Kd2 Kh3 6.Bf6 h4 7.Ke2 Kg2 ) 4...Kg3 4.Ba3 Kxh4
+5.Kd3 Kxg5 6.Ke4 h4 7.Kf3 Bd5+ 0-1
+
+
+[Event "AVRO,Rotterdam.KyG p.56"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "Capablanca"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p3q1kp/1p2Pnp1/3pQ3/2pP4/1nP3N1/1B4PP/6K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ba3 Qxa3 2.Nh5+ gxh5 3.Qg5+ Kf8 4.Qxf6+ Kg8 5.e7 (5.Qf7+ Kh8 6.g3 (6.e7 Qc1+
+7.Kf2 Qd2+ 8.Kg3 Qg5+ (9...Qxc3+ 9.Kh4 Qxd4+ 10.Kxh5 Qe5+ 11.Kg4 Qe4+ 12.Kh3
+Qe3+ 13.g3 Qh6+ 14.Kg2 Qd2+ 15.Qf2 ) 9.Kf3 Nxd4+ 10.cxd4 (10.Kf2 Qd2+ )
+11...Qg4+ 11.Ke3 Qe4+ 12.Kf2 Qxd4+ ) 7...Nd2 (7...Qc1+ 7.Kg2 Qc2+ 8.Kh3 ) (
+7...Nxd4 7.e7 Ne2+ 8.Kf2 Qc5+ 9.Kxe2 ) 7.e7 Nf3+ 8.Kg2 Qb2+ 9.Kxf3 Qxc3+ 10.Kg2 )
+6...Qc1+ 6.Kf2 Qc2+ 7.Kg3 Qd3+ 8.Kh4 Qe4+ 9.Kxh5 Qe2+ 10.Kh4 Qe4+ 11.g4 (11.Kh3 )
+12...Qe1+ 12.Kh5 1-0
+
+
+[Event "Moscu. K y G p.57"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "Bronstein,D"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2qrk1/b1pb2pp/p2p1n2/1P1Ppp2/N7/1Q2PPP1/PP1BN1BP/R3K2R w HA - 0 1"]
+[TimeMode "normal"]
+
+1.b6 Bxa4 2.b7 Bxb3 3.bxa8=Q Bb6 4.axb3 *
+
+
+[Event "Blancas ganan. K y G p.58"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kusnezov,A+Sacharov,B"]
+[Black "1955"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B1r3R1/2k4p/b1P1K1P1/8/2Pp4/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rg7+ (1.Rxc8+ Bxc8+ ) (1.gxh7 Rxg8 2.hxg8=Q Bxc4+ ) 2...Kb6 (2...Kb8 2.Bb7
+Bxb7 3.Rxb7+ Ka8 4.gxh7 d3 5.Rd7 Rh8 6.c7 ) 2.Bb7 Bxc4+ 3.Ke5 (3.Kf6 Rf8+ 4.Ke7
+Rg8 5.Rxg8 Bxg8 ) 4...Rh8 4.Kxd4 Bg8 5.c7 Kxb7 6.c8=Q+ Kxc8 7.Rc7+ Kxc7 8.g7 *
+
+[Event "Tablas. K y G p.13"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "R.Reti II"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/k6p/2P5/K7/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c6 h5 (2...Kb6 2.Kb4 h5 3.Kc4 Kxc6 4.Kd4 ) 2.Kb4 Kb6 (3...h4 3.Kc5! h3 4.Kd6 )
+3.Kc4 h4 4.Kd5! Kc7 5.Ke4 1/2-1/2
+
+
+[Event "Tablas. KyG. p.11"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "R.Reti"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg7! h4 2.Kf6! Kb6 (3...h3 3.Ke7 h2 4.c7 Kb7 5.Kd7 ) 3.Ke5! Kxc6 (4...h3 4.Kd6
+h2 5.c7 Kb7 6.Kd7 ) 4.Kf4 h3 5.Kg3 h2 6.Kxh2 1/2-1/2
+
+
+[Event "Tablas. K y G. p.13"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "G.Adamson"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7K/k1P5/p7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 a4 2.Kf5 Kb6 (3...a3 3.Ke6! ) 3.Ke5 Kxc6 (4...a3 4.Kd6 a2 5.c7 ) 4.Kd4 Kb5
+5.Kc3 1/2-1/2
+
+
+[Event "Tablas. K y G p.13"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "K.Feiter"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/8/p7/1k6/5P2/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb7! a5 2.Kc7 Kc5 3.Kd7 Kd5 4.Ke7 Ke4 5.Ke6 a4 (6...Kxf4 6.Kd5 ) 6.f5 a3 7.f6
+1/2-1/2
+
+
+[Event "Tablas. K y G. p.14"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "L.Prokes"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3K4/7p/3k4/P7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 Kc6 2.Kb8! Kb5 3.Kb7 Kxa5 4.Kc6 h5 5.Kd5 1/2-1/2
+
+
+[Event "San Petersburgo. Tablas KyG p.14"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Lasker, E"]
+[Black "Tarrasch, S"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6K1/8/ppp2k2/8/1P6/1P5P/8 w - - 0 40"]
+[TimeMode "normal"]
+
+40.h4! Kg4 41.Kg6! Kxh4 42.Kf5 Kg3 43.Ke4 Kf2 44.Kd5 Ke3 45.Kxc5 Kd3 46.Kxb5 Kc2
+47.Kxa5 Kxb3 1/2-1/2
+
+
+[Event "Tablas. K y G . p.15"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Yates, F"]
+[Black "Marshall, F"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/pK6/8/5P2/1k6 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Kb2! 2.Kxa4 Kc3! 3.f4 Kd4 1/2-1/2
+
+
+[Event "Tablas. K y G p.15"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "D.Golberg."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p3k2K/8/8/8/8/7P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h4 Kf6 2.h5 Kg5 3.Kg7 Kxh5 4.Kf6 a5 5.Ke5 1/2-1/2
+
+
+[Event "Tablas K y G p.15"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "I.Moravec"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/k7/7K/3P4/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg4 b5 2.d4 b4 3.d5! Kb5 4.d6! Kc6 5.Kf5! Kxd6 (6...b3 6.Ke6 b2 7.d7 ) 6.Ke4
+1/2-1/2
+
+
+[Event "Tablas K y G p.16"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/7p/8/2P5/K7/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb5! h5 2.Kc6! Kc8 3.Kd5 1/2-1/2
+
+
+[Event "Blancas ganan. K y G. p.16"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "I.Maiselis"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p4K2/P7/8/8/8/1k6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke6! Kc3 2.Kd5!! Kb4 3.Kc6 Ka5 4.Kb7 Kb5 5.Kxa7 Kc6 6.Kb8 1-0
+
+
+[Event "Blancas ganan K y G p.17"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "O.Duras"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/7k/8/1K6/8/1P6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc5! g5 (2...Kg6 2.b4 Kf7 (3...Kf6 3.Kd6! ) 3.b5 Ke7 4.Kc6! Kd8 5.Kb7 g5 6.b6
+g4 7.Ka7 g3 8.b7 g2 9.b8=Q+ ) 2.b4 g4 3.Kd4 Kg5 4.b5 g3 (5...Kf4 5.b6 g3 6.b7 g2
+7.b8=Q+ ) 5.Ke3 Kg4 6.b6 Kh3 7.b7 g2 8.Kf2 Kh2 9.b8=Q+ 1-0
+
+
+[Event "Moscú   K y G . p.18"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "19"]
+[White "Korchnoi, V"]
+[Black "Karpov, A"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/P1K5/8/8/6k1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kd3! (1.Kd4 Kf2 2.Ke5 Ke3 3.Kxf5 Kd4 $10 ) 2...Kh2! (2...Kf2 2.a5 f4 3.a6 f3
+4.a7 Kg1 5.a8=Q f2 6.Qg8+ Kh1 7.Ke2 $18 ) 2.a5 f4 3.a6 f3 4.Ke3! Kg2 5.a7 f2
+6.a8=Q+ 1-0
+
+
+[Event "Tablas K y G p.18"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "R.Reti III"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6p1/k1P2p1p/7K/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 Kb6 (2...h5 2.Kxg7 h4 3.Kxf6 h3 4.Ke7 h2 5.c7 h1=Q 6.c8=Q+ ) (2...f5
+2.Kxg7 f4 3.Kf6 f3 (4...Kb6 4.Ke5 f3 5.Kd6 ) 4.Ke7 ) 2.Kxg7 h5 (3...f5 3.Kf6 f4
+4.Ke5 f3 5.Kd6 ) 3.Kxf6 h4 4.Ke5 h3 5.Kd6 1/2-1/2
+
+
+[Event "Tablas. K y G. p.19"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "E.Pogosjanz."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7p/k1P2p2/8/8/3K4/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke4! Kb6 (2...h5 2.Kd5 (2.Kf5 Kb6 3.Kxf6 h4 4.Ke5! )) 2.Kf5! (2.Kd5 Kc7 3.Ke6
+h5 $19 ) 3...h5 3.Kxf6 h4 4.Ke5! 1/2-1/2
+
+
+[Event "Tablas. K y G p.19"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "T.Dawson"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k7/P7/8/7p/KP4p1/8/6P1/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb5 Kxa7 (2...h4 2.Ka6 h3 3.b5 {Seguido de mate.} ) (2...Kb7 2.a8=Q+ Kxa8
+3.Kc6 Kb8 4.Kd5 $10 ) 2.Kc6 Kb8 (3...h4 3.Kc7 Ka6 4.Kc6 Ka7 5.Kc7 h3 6.b5 )
+3.Kd5 h4 4.Ke4 h3 5.gxh3 gxh3 6.Kf3 1/2-1/2
+
+
+[Event "Tablas. K y G p.20"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Gorgijev"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2p4K/8/7k/8/8/6PP/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g4+! (1.h4? c5! 2.g4+ Kxh4 3.Kg6 Kxg4 $19 ) 2...Kg5! (2...Kxg4 2.Kg6 c5 3.h4!
+Kxh4 4.Kf5 $10 ) 2.Kg7! (2.h4+? Kxh4 3.Kg6 Kxg4 4.Kf6 Kf4 $19 ) 3...c5 3.h4+
+Kxg4 (4...Kxh4 4.Kf6 c4 5.g5 $10 ) 4.Kg6 c4 (5...Kxh4 5.Kf5 $10 ) 5.h5 1/2-1/2
+
+
+[Event "Tablas. K y G p.20"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "W.Korolkov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1K5p/8/P1kPP3/8/3p4/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e6 Kd6 2.e7 Kxe7 3.Kc7 d2 4.d6+ Ke6 5.d7 d1=Q 6.d8=Q Qxd8+ 7.Kxd8 Kd6 8.Kc8
+Kc6 9.Kb8 Kb5 10.Kb7 Kxa5 11.Kc6 h5 12.Kd5 1/2-1/2
+
+
+[Event "Tablas KyG p.21"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "T.Gorgijev"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/3p2kP/7p/5P2/6K1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f6+ Kxh7 2.Kf5! Kg8 3.Kg6 d5! 4.Kf5 h5 5.Ke6! Kf8 6.Kxd5 h4 7.Ke4 1/2-1/2
+
+
+[Event "Blancas ganan  KyG p.21"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "A.Rink"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/P4p2/k6K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a4 Kb3! 2.a5 Kc3! (3...Kc4 3.a6 Kd3 4.a7 f2 5.a8=Q f1=Q 6.Qa6+ $18 ) 3.Kg1! (
+3.a6? Kd2! $10 ) (3.Kg3? Kd4! $10 ) 4...Kd4 4.a6 Ke3 5.Kf1 1-0
+
+
+[Event "Blancas ganan. K y G pag.22"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/7p/6Pp/2p3kP/K7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g5! (1.gxh5? c2 2.Kb2 c1=Q+ 3.Kxc1 Kxh3 4.h6 Kg2 5.h7 h3 6.h8=Q h2 $10 )
+2...Kf4! 2.g6 Ke3 (3...c2 3.Kb2 Kg5 4.g7 Kh6 5.g8=R! ) 3.g7 c2 4.g8=Q c1=Q
+5.Qg5+ 1-0
+
+
+[Event "Blancas ganan KyG p.22"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/7k/K7/p1p2P2/7P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb3! (1.Kxa3? Kg5 2.Kb3 Kf4 3.h4 Kxf3 4.h5 Ke4 5.h6 Kd3 $10 ) 2...a2! 2.Kxa2
+Kg5 3.Kb1!! Kf4 4.h4 Kxf3 5.h5 Ke4 6.h6 Kd3 7.Kc1! 1-0
+
+
+[Event "Blancas ganan KyG p.23"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "R.Reti"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5N2/B1pK4/1p6/k7/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke4! (1.Kc4 b3 2.Ne4 b2 3.Nc3 b1=Q 4.Nxb1+ Ka4 $10 ) 2...b3 2.Nd5 b2 3.Nc3 Kb3
+4.Kd3 c4+ 5.Kd2 1-0
+
+
+[Event "Tablas. KyG p.23"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "W.Achontov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1K6/4k3/6P1/1p5P/8/8/n7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h6! Kf6 2.h7 Kg7 3.Kc7! b4 4.Kd6! Nc3! (5...b3 5.Ke7! b2 6.h8=Q+ Kxh8 7.Kf7
+b1=Q 8.g7+ Kh7 9.g8=Q+ ) 5.Kc5! b3 6.Kb4! b2 7.Ka3! b1=Q (8...b1=B 8.Kb2 )
+8.h8=Q+ Kxh8 9.g7+ Kh7 10.g8=Q+ Kxg8 1/2-1/2
+
+
+[Event "Juega el negro,tablas KyG p.24"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "A.Kuznezov, B.Ryvkin"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/6P1/8/8/6K1/B7/p2k4/5b2 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Be2+ (2...Bh3+ 2.Kh4 ) (2...a1=Q 2.Bc1+! (2.g8=Q? Be2+ 3.Kf5 Bd3+! 4.Kf4
+Qd4+ 5.Kf3 Be4+ $19 ) 3...Qxc1 3.g8=Q Be2+ 4.Kf5! Bd3+ 5.Kf6! $10 ) 2.Kh4!! (
+2.Kf4? a1=Q 3.Bc1+ Kc2! 4.g8=Q Qd4+ 5.Kf5 Bd3+ 6.Ke6 (6.Kg5 Qg1+ ) 7...Bc4+ $19 )
+(2.Kg5 a1=R! (3...a1=Q 3.Bc1+! Qxc1 4.g8=Q Qg1+ 5.Kh6! Qxg8 $10 ) 3.g8=Q Rg1+
+4.Kh6 Rxg8 5.Kh7 $19 ) (2.Kg3 a1=R? (3...a1=Q 3.Bc1+ Qxc1 4.g8=Q Qg1+ ) 3.Bc1+!
+Rxc1 4.g8=Q Rg1+ 5.Kf2 Rxg8 $10 ) 3...a1=Q (3...a1=R 3.Bc1+! Rxc1 4.g8=Q Rh1+
+5.Kg3! Rg1+ 6.Kf2 Rxg8 $10 ) 3.Bc1+! Qxc1 4.g8=Q Qh1+ 5.Kg5 Qg1+ 6.Kh6! Qxg8 $10
+1/2-1/2
+
+
+[Event "Blancas ganan KyG p.24"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "G.Sachodjakin"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/3k1K2/8/B6p/n7/8/1P6/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nb6+ Kc6! (2...Nxb6 2.Bxb6 Kc6 3.Bf2 Kb5 4.Kg6 Kb4 5.Kxh5 Kb3 6.Bd4 $18 )
+2.Nxa4 (2.Nc4! Kb5 3.b3 Nc5 ) 3...Kb5 3.Bc3! Kxa4 4.Ke6! h4 5.Kd5! h3 (6...Kb3
+6.Ke4 $18 ) 6.Kc4 h2 7.Bb4 h1=Q 8.b3# 1-0
+
+
+[Event "Blancas ganan KyG p.25"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "I.Moravez"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/6p1/8/7p/8/8/R7/6k1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kh7! h4 (2...g5 2.Kg6 g4 3.Kg5! g3 4.Kh4! g2 5.Kh3 Kh1 6.Rxg2 ) 2.Kg6! h3
+3.Kg5 h2 4.Kg4 h1=Q (5...h1=N 5.Kf3 g5 6.Rd2 g4+ 7.Kxg4 Nf2+ 8.Kf3 Nh1 9.Ra2 )
+5.Kg3 1-0
+
+
+[Event "Tablas KyG p.25"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "L.Mitrofanov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n7/P7/K7/5P2/3n2p1/8/8/4k3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb7 g3 2.Kxa8 Nb5 3.Kb7! (3.f6 g2 4.f7 g1=Q 5.f8=Q Qxa7# ) 4...Nxa7 4.f6! Nb5
+5.Kc6! Nd4+ 6.Kd5 Nf5 7.f7 Ne7+ 8.Ke4 Ng6 9.Kf3 1/2-1/2
+
+
+[Event "Tablas KyG p.26"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "W.Pomogalov"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/2P5/b2p1P1k/p7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ka7 Bc8 2.Kb8! Be6 3.c8=Q Bxc8 4.Kc7!! (4.Kxc8 Kg6 5.Kd7 Kxf6 $19 ) 5...Kg6
+5.Kxd6! Kxf6 6.Kc5 1/2-1/2
+
+
+[Event "Tablas KyG p.26"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/1p6/8/8/3K1n2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke2! (1.Kc2 Ne3+ 2.Kb3 Nd5 $19 ) 2...Kd7 (2...b3 2.Kd3 Ne3 3.Kc3 $10 ) 2.Kd3
+Ne3! 3.Kxe3 Kc6 4.Kd3 Kb5 5.Kc2 Ka4 6.Kb2 1/2-1/2
+
+
+[Event "Tablas KyG p.27"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "E.Pogosjanz"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/p7/K1p2Pk1/6PR/3N2P1/8/6q1/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rh6+! Kxg5 (2...Kf7 2.Rh7+ $16 ) 2.Ne6+! Kxh6 3.g5+ Kh7 4.g6+ Qxg6 (5...Kxg6
+5.Nf4+ ) (5...Kh6 5.f7 Qa2+ 6.Kb7 Qxe6 7.f8=Q+ Kxg6 8.Kxa7 ) 5.Nf8+ (5.f7? Qxf7!
+(6...Qxe6 6.f8=N+! )) 6...Kh6 6.Nxg6 Kxg6 7.Kb7!! (7.Kxa7? c5 8.Kb6 c4 9.Kc5
+c3 $19 ) 8...a5 (8...c5 8.Kc6! c4 9.Kd5! c3 10.Ke6! c2 11.f7 c1=Q 12.f8=Q $10 )
+8.Kxc6 a4 9.Kd5! a3 10.Ke6! a2 11.f7 a1=Q 12.f8=Q 1/2-1/2
+
+
+[Event "Karpov y Gik"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Asaba,A"]
+[Black "pag.28"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/3R4/5k2/K3pP1P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd3+ Kxf2 2.Rd2 Kf3 3.Rxe2 (3.Rd3+ Kf4 4.Rd4+ Kf5 5.Rd5+ Ke6 ) 4...Kxe2 4.h4
+Kd3 5.h5 Kc2 6.Ka3 Kc3 7.h6 b4+ 8.Ka4 b3 9.h7 b2 10.h8=Q+ 1-0
+
+
+[Event "Tablas. KyG p.28"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Sarytschev,A. y K."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1pPK3b/8/8/8/5k2/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 b5 2.Kd7 b4 3.Kd6 Bf5 4.Ke5 Bc8 5.Kd4 1/2-1/2
+
+
+[Event "Tablas. K y G p.29"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti,R"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5K2/k7/4P1p1/8/8/8/4b3/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke7 g5 2.Kd6 (2.Kf6 g4 3.e7 Bb5 ) 3...g4 3.e7 (3.Kc5 g3 4.e7 Bh5 ) 4...Bb5
+4.Kc5 Be8 5.Kd4 Kb7 6.Ke4 Kc7 7.Kf4 1/2-1/2
+
+
+[Event "Tablas. K y G p.29"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/k4pp1/2P4p/5P1K/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f6 gxf6 (2...g5 2.Kxh6 g4 3.Kg7 g3 4.Kxf7 g2 5.Ke7 g1=Q 6.f7 ) 2.Kxh6 Kb6 (
+3...Kb8 3.Kh5 (3.Kg7 f5 4.Kf6 f4 5.Ke5 f3 6.Kd6 Kc8 ) 4...Kc7 4.Kg4 Kxc6 5.Kf5 )
+3.Kg7 f5 4.Kf6 f4 5.Ke5 f3 6.Kd6 f2 7.c7 f1=Q 8.c8=Q Qf6+ 9.Kd5 1/2-1/2
+
+
+[Event "Tablas. K y G pag.30"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4K1bn/1p1N4/2P5/1r6/8/5k2/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c7 Nf7 2.Ke7 Nd6 3.Kxd6 Rd5+ 4.Ke7 Rxd7+ 5.Kxd7 Bh7 6.Kc8 b5 7.Kd7 b4 8.Kd6
+Bf5 9.Ke5 Bc8 10.Kd4 1/2-1/2
+
+
+[Event "Blancas ganan. K y G p.31"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/P5p1/5pr1/3R4/bk3B1K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd1+ (1.Kh2 Be5 ) 2...Ka2 2.Rxa1+ Kxa1 3.Kh2 (3.a5 f2 ) 4...Rh3+ 4.Bxh3 gxh3
+5.Kg3 (5.Kxh3 ) 6...h2 6.Kxh2 Kb2 7.a5 Kc3 8.Kg1 Kd4 9.a6 Ke3 10.Kf1 *
+
+
+[Event "Blancas ganan. K y G p.31"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Troizki,A"]
+[Black "1895"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/4p2p/6P1/3K4/5B2/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Bh6+ Kg8 2.g7 Kf7 (3...e5 3.Ke6 e4 4.Kf6 e3 5.Bxe3 ) (3...e6+ 3.Kd6 Kf7 4.Ke5
+Kg8 5.Kf6 ) 3.g8=Q+ Kxg8 4.Ke6 Kh8 5.Kf7 e5 6.Bg7# 1-0
+
+
+[Event "Blancas Ganan. K y G. pag.32"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1986"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2B5/pP1pK3/1qk5/R7/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ra6 Qxa6 (2...Kc7 2.Rxb6 axb6 3.Kf6 b5 4.Ke5 b4 5.Ke4 (5.Kd4 d5 6.Kd3 Kb8
+7.Kc2 d4 8.Kb3 (8.Kd3 b3 ) 9...d3 ) 6...d6 6.Kd3 d5 7.Kd4 Kb8 8.Kxd5 b3 9.Kc6 b2
+10.Bf5 ) 2.b8=N+ Kc7 3.Bxa6 Kxb8 4.Kd6 Ka8 5.Kc7 d5 6.Bb7# 1-0
+
+
+[Event "Tablas. KyG pag.32"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Sinar,M"]
+[Black "1982"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5K1p/1kP5/2p5/2P5/8/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg7 (1.Kf6 Kxc6 2.Kg5 Kb6 3.Kh6 Ka5 4.Kxh7 Kb4 5.Kg6 Kxc4 6.Kf5 Kc3 7.Ke5 c4
+8.a4 Kb4 ) 2...h5 2.Kf6 h4 3.Ke5 Kxc6 4.Kf4 Kb6 5.Kg4 Ka5 6.Kxh4 Kb4 7.Kg3 (
+7.Kg4 Kxc4 8.Kf3 Kd3 9.a4 c4 10.a5 c3 11.a6 c2 12.a7 c1=Q 13.a8=Q Qh1+ )
+8...Kxc4 8.Kf2 (8.Kf3 Kd3 9.a4 c4 10.a5 c3 11.a6 c2 12.a7 c1=Q 13.a8=Q Qh1+ )
+9...Kc3 9.Ke2 c4 10.a4 1/2-1/2
+
+
+[Event "Tablas. KyG p.33"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1985"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/k4pKp/P1p5/1Pp5/2P5/8/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.bxc6 (1.a4 cxb5 ) 2...Kb6 (2...Kxa6 2.Kxh7 Kb6 3.Kg7 f5 4.Kf6 f4 5.Ke5 f3
+6.Kd6 f2 7.c7 ) 2.a7 Kxa7 3.Kxf7 (3.Kxh7 f5 4.Kg6 f4 5.Kf5 (5.Kf6 Kb8 ) 6...f3
+6.Ke6 f2 7.c7 f1=Q 8.c8=Q Qh3+ ) 4...Kb6 4.Kg7 h5 5.Kf6 h4 6.Ke5 Kxc6 7.Kf4 Kb6
+8.Kg4 Ka5 9.Kxh4 Kb4 10.Kg3 Kxc4 11.Kf2 Kc3 12.Ke2 c4 13.a4 1/2-1/2
+
+
+[Event "Simul.Moscu. KyG p.34"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Neistadt,W"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5n2/3b1p2/p4Pk1/3PP3/3N4/7P/7K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e6 Nxe6 (2...fxe6 2.Nxe6 Nxe6 3.dxe6 Bxe6 ) 2.Nxe6 fxe6 (3...Bxe6 ) 3.dxe6
+Bxe6 4.Kg3 Kxf6 (5...a5 5.Kf4 a4 6.Ke5! a3 7.Kxe6 (7.Kd4 a2 8.Kc3 ) 8...a2
+8.f7 $10 {Tablas.} ) 5.Kf4 Bf5! 6.Ke3 Ke5 7.Kd2 Kd4 8.Kc1 Kc3
+{Y el posterior camino del rey blanco hacia la esquina es impedido.} 0-1
+
+
+[Event "Moscu. KyG pag.36"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Bronstein,D"]
+[Black "Botvinnik,M"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3N4/1p6/8/p7/2P2k2/1KP1p3/8/8 w - - 0 57"]
+[TimeMode "normal"]
+
+57.Kc2 {Con la vaga esperanza de una victoria, el blanco acerca su rey al peón
+enemigo. Naturalmente que al gran maestro le resultaba evidente que el rey
+negro podía alcanzar la casilla f2, pero consideró para ello sólo la línea
+directa Rf4-f3-f2, para lo cual daba por hecho que él entonces podría traer su
+caballo (Ce6 y Cd4+). ¡Que grande, sin embargo, fue su sorpresa cuando el rey
+negro se dirigió de hecho a f2, pero no en camino directo, sino sobre una línea
+en zig-zag! Después de:} (57.Ne6+ {Y 58.Cd4 hubiera conseguido fáciles tablas.} )
+58...Kg3! {El blanco tiene que abandonar en seguida, ya que el peón e no puede
+ser ya detenido.} (58...Kg3 58.Ne6 e2
+{y el caballo no puede dar jaque desde d4.} 59.Kd2 Kf2!! ) (58...Kf3 58.Ne6
+{Vainshtein vio en esta la única jugada blanca y dijo que hubiera el blanco
+perdido también si el negro hace la directa Rf4-f3-f2.} (58.Nf7! {Jugada
+analizada por Botvinnik y que demuestra que sólo la ingeniosa maniobra
+Rf4-g3-f2 facilita la victoria al negro.} 59...e2 59.Ne5+ Kf2 60.Nd3+ Kf1 61.Kb3
+{Y el blanco consigue tablas. En el final de peones:} 62...e1=Q 62.Nxe1 Kxe1
+63.Ka4 {El rey negro se encuentra en comparación con los "antiguos" análisis
+algo más lejos (en e1), y esto cambia la valoración de la posición.} ) 59...e2
+59.Nd4+ Kf2 60.Nxe2 Kxe2 {Y el final de peones es desesperado para el blanco.}
+61.Kb3 b6! 62.Ka4 Kd3 63.Kb5 a4! 64.Kxa4 Kxc4 $17 ) 0-1
+
+
+[Event "Blancas ganan. KyG p.39"]
+[Site "?"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Steinitz,W"]
+[Black "1862"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4K3/6PP/8/7B/8/8/7r w - - 0 1"]
+[TimeMode "normal"]
+
+1.h7+ Kg7 2.h8=Q+ Kxh8 3.Kf7 Rf1+ 4.Bf6+ Rxf6+ 5.Kxf6 Kg8 6.g7 *
+
+
+[Event "Tablas. KyG p.40"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Benko,P"]
+[Black "1982"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/5b2/8/8/8/6pp/4k3/7K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rd4 (1.Kg1 h2+ 2.Kg2 (2.Kh1 Bg6 3.Rd4 Ke3 ) 3...Bh5 3.Rh8 (3.Rf8 Bf3+ 4.Rxf3
+h1=Q+ 5.Kxh1 Kxf3 ) 4...h1=Q+ 4.Kxh1 Kf2 5.Rf8+ Bf3+ 6.Rxf3+ Kxf3 ) 2...Bh5
+2.Rh4 (2.Re4+ ) 3...Kf2 3.Rg4 g2+ 4.Kh2 Bxg4 *
+
+
+[Event "Blancas ganan. KyG p.40"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1894"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/2P2R2/k7/8/8/8/2r2p2/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb8 Rb2+ 2.Ka8 Rc2 3.Rf6+ Ka5 4.Kb7 Rb2+ 5.Ka7 Rc2 6.Rf5+ Ka4 7.Kb7 Rb2+ 8.Ka6
+Rc2 9.Rf4+ Ka3 10.Kb6 Rb2+ 11.Ka5 Rc2 12.Rf3+ Ka2 13.Rxf2 Rxf2 14.c8=Q *
+
+
+[Event "Blancas ganan.KyG p.41"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Kopajev,N"]
+[Black "1953"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/1K1P4/8/1k6/8/6r1/7p/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rf5+ (1.d8=Q h1=Q+ 2.Kb8 Rb3 ) (1.Rh8 Rd3 2.Rh5+ Ka4 3.Kc6 Rc3+ 4.Kb6 Rb3+
+5.Ka6 Rd3 ) (1.Rf1 Rd3 2.Kc7 Rc3+ 3.Kd8 Rg3 ) 2...Ka4 2.Ra5+ Kb4 (3...Kxa5
+3.d8=Q+ Kb5 4.Qd5+ Ka4 (5...Kb4 5.Qd2+ ) 5.Qa2+ ) 3.Rh5 Rd3 4.Kc6 Rc3+ 5.Kb6 Rd3
+6.Rh4+ Ka3 7.Kc7 Rc3+ 8.Kd8 Rc2 9.Ke7 Re2+ 10.Kd6 Rd2+ 11.Kc6 Rc2+ 12.Kb5 Rb2+
+13.Ka5 Rd2 14.Rh3+ Kb2 15.Rxh2 *
+
+
+[Event "Blancas ganan. KyG p.41"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres,Paul"]
+[Black "1947"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1K2p3/R3P2P/p7/8/8/8/r7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc8 a4 (2...Rd1 2.Ra7 a4 3.Rxe7 a3 4.Rg7+ Kh8 5.Rg2 ) 2.Kd7 a3 3.Kxe7 a2 4.Ra7
+Kh8 5.h7 Kxh7 6.Ke8+ Kg6 7.e7 Kh5 (8...Kh7 8.Ra3 Kg7 (9...Kg6 9.Rg3+ Kh5 (
+10...Kf5 10.Rg2 Ke4 11.Kf7 Rf1+ 12.Kg6 a1=Q 13.e8=Q+ ) 10.Rg2 Kh4 11.Rd2 )
+9.Rg3+ Kh7 10.Rg2 Kh8 11.Rd2 Kg7 12.Kd7 ) 8.Ra3 Kh4 9.Ra5 Kg4 (10...Kh3 10.Ra4 )
+10.Kf7 Rf1+ 11.Kg6 Re1 12.Ra4+ Kh3 13.Kf6 Rf1+ 14.Kg5 Rg1+ 15.Kh5 Re1 16.Ra3+
+Kg2 17.Rxa2+ Kf3 18.Ra7 Re6 19.Kg5 Ke4 20.Rc7 Ke5 21.Rd7 Ke4 22.Rd1 Kf3 23.Rf1+
+Ke2 24.Rf7 Ke3 25.Kf5 *
+
+
+[Event "Moscu. Ganan Negras. KyG. p42"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Zaitsev,I"]
+[Black "Dvoretzky,M analisis"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P7/8/7K/r7/8/4p3/4k3 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Ra6 2.Kg5 (2.Kg4 Rg6+ 3.Kf5 Rg7 4.Kf6 Rh7 5.Ke6 Rb7 6.Ke5 (6.Kd6 Kd1 ) (
+6.Kf6 Kf1 ) 7...Re7+ 7.Kd6 Kd1 8.Kxe7 e1=Q+ 9.Kd7 Qa5 ) 3...Kf2 3.Rf8+ Kg3 4.Re8
+Ra5+ 5.Kh6 Kf3 6.Rf8+ Kg4 7.Rg8+ Kh4 8.Re8 Ra6+ 9.Kg7 Rxa7+ 10.Kf6 Ra2 11.Re3
+Kg4 12.Ke5 Rb2 (13...Rc2 ) 13.Ke4 Rd2 14.Ke5 Rd8 15.Kf6 Rf8+ 16.Ke7 Rf2 17.Ke6
+Kf4 *
+
+
+[Event "Blancas ganan. KyG p.43"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Moravec,I"]
+[Black "1908"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/2P5/8/8/8/2R4P/Kp5r/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb1 Rg2 2.Rc4 (2.Rc2 Rxc2 3.Kxc2 Kxc7 ) 3...Rh2 3.h4 Rg2 4.Rc5 Rh2 5.h5 Rg2
+6.Rc6 Rh2 7.h6 Rg2 8.h7 Rh2 9.Ra6 Kxc7 10.Ra8 Rxh7 11.Ra7+ *
+
+
+[Event "Blancas ganan. KyG p.43"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Kalandadse,W"]
+[Black "1975"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/2k5/6K1/P4R2/5p1r/P7/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg6 Rg3+ 2.Kh6 Rh3+ 3.Kg7 Rg3+ 4.Kh8 Kb6 5.Rf5 Rh3 6.a5+ Ka6 7.a3 Rg3 8.a4 Ka7
+9.Rf6 Kb7 10.a6+ Ka7 11.a5 Ka8 12.Rf7 Kb8 13.a7+ Ka8 14.a6 *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1892"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/k1r1NPK1/8/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f7 Rxe6+ (2...Rc8 2.Nc7+ ) 2.Kg5 Re5+ 3.Kg4 Re4+ 4.Kg3 Re3+ 5.Kf2 *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1894"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4KN1N/8/8/8/8/2P5/8/1n3k2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.c4 Nd2 2.c5 Nb3 3.c6 Nd4 4.c7 Nb5 5.c8=N *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1895"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pP2q3/8/Q7/8/6bP/6P1/2R4K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rc8+ Rxc8 2.Qxa7+ Kxa7 3.bxc8=N+ *
+
+
+[Event "Blancas ganan. KyG p.44"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1895"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/5B2/4KpQp/5Pb1/8/8/2p5/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Bg8 Rxg8 2.Kf7 Rxg6 3.fxg6 h5 4.g7+ Kh7 5.g8=Q+ Kh6 6.Qg6# 1-0
+
+
+[Event "Blancas ganan. KyG p.45"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Lasker,E y Reichhelm,K"]
+[Black "1901"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k7/3p4/p2P1p2/P2P1P2/8/8/K7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb1 (1.Kb2 Ka8 ) 2...Kb7 (2...Kb6 2.Kc2 ) 2.Kc1 Kc8 3.Kd2 Kb7 4.Kc3 Kc7 5.Kd3
+Kb7 6.Ke3 Kc7 7.Kf3 Kd7 8.Kg3 Ke7 9.Kh4 Kf6 10.Kh5 *
+
+
+[Event "Blancas ganan. KyG p.45"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Lasker,Emanuel"]
+[Black "1921"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/k1p2p2/P1Pp1p1p/KP1PpP1P/4P3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kb3 (1.b5+ cxb5+ 2.Kb4 Kb7 3.Kxb5 a6+ ) 2...Kb7 2.a6+ Kxa6 (3...Kc7 3.Ka4 Kd7
+4.b5 Kc7 5.bxc6 Kc8 6.c7 Kxc7 7.Kb5 Kd7 8.c6+ Kd6 9.c7 Kxc7 10.Kc5 ) 3.Ka4 Kb7
+4.b5 a6 (5...cxb5+ 5.Kxb5 Kc7 6.Ka6 Kb8 7.c6 Ka8 8.Kb5 Kb8 9.Kc5 ) 5.bxc6+ Kxc6
+6.Ka5 Kb7 7.c6+ Kxc6 8.Kxa6 Kc7 9.Kb5 *
+
+
+[Event "Blancas ganan. KyG p45"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "1908"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7r/2p2pp1/2p3p1/k5p1/3KN1p1/8/1R6 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kc4 Ka5 2.Kxc5 Ka6 3.Kxc6 Ka7 4.Nd5 Rh2 5.Nc3 f5 6.Rb7+ Ka6 (7...Ka8 ) 7.Rb6+
+Ka5 8.Rb5+ Ka6 9.Rb4 Ka7 10.Nb5+ Kb8 11.Nd6+ Ka8 12.Nc4 Ra2 13.Kc7 Ra7+ (
+14...g2 ) 14.Kc8 Ra6 15.Rb8+ Ka7 16.Rb7+ Ka8 17.Nb6+ Rxb6 18.Rxb6 Ka7 19.Rb1 f4
+20.Kc7 Ka6 21.Kc6 Ka5 22.Kd5 f3 23.Ke4 Ka4 24.Ke3 *
+
+
+[Event "Berlin. Ky G p.46"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "Lasker,Emanuel"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1R1K4/k1n5/Np6/1P1n4/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nxc7 Nxc7 2.Ra8+ (2.Kxc7 ) (2.Kc8 Nxb5 ) 3...Nxa8 (3...Kxa8 3.Kxc7 Ka7 4.Kc6
+Ka8 5.Kxb6 ) 3.Kc8 (3.Kc8 Nc7 4.Kxc7 ) 1-0
+
+
+[Event "Blancas ganan. KyG p.47"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Liburkin,M"]
+[Black "1934"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kn3n2/8/1p1K4/1P5R/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rh8 Nfd7 2.Kc7 Ka7 3.Re8 Nf6 4.Rxb8 Ne8+ 5.Kd7 Nc7 6.Ra8+ Nxa8 7.Kc8 *
+
+
+[Event "Blancas ganan. KyG p.47"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Pogosjanz,E"]
+[Black "1981"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3K1n1/5p2/5kpP/3n4/6P1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h7 Kg7 2.h8=Q+ Kxh8 3.Kxf7 Ne7 4.g5 Kh7 5.Rd8 Nc6 6.Rxg8 Nd8+ 7.Ke7 Nf7 8.Rh8+
+Nxh8 9.Kf8 *
+
+
+[Event "Los Angeles. KyG p.48"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Capablanca"]
+[Black "Steiner"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q2r1/pp2n1kp/2p1pp2/4p2Q/4P2N/2PP4/P1P3PP/R4R1K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rxf6 Kxf6 2.Rf1+ Nf5 3.Nxf5 exf5 4.Rxf5+ Ke7 5.Qf7+ Kd6 6.Rf6+ Kc5 7.Qxb7 Qb6
+8.Rxc6+ Qxc6 9.Qb4# 1-0
+
+
+[Event "Blancas ganan. KyG p.48"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Olimpijev,S"]
+[Black "1982"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3q3/3k4/2p2p2/p1R1p2r/8/1Q5P/2p2P2/2R1K3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rxc6 Kxc6 2.Rxc2+ Kd6 3.Qb6+ Kd5 (4...Ke7 4.Rc7+ Kf8 5.Qxf6+ ) 4.Qb7+ Kd6 (
+5...Kd4 5.Rd2+ Kc5 6.Qc7+ Kb5 7.Rb2+ ) 5.Qc7+ Kd5 (6...Ke6 6.Rc6+ Kf5 7.Qg7 Qg8 (
+8...Rxh3 8.Rxf6+ Ke4 9.Qg2+ Kd4 10.Rd6+ Kc3 11.Qxh3+ Kb4 12.Rb6+ Kc4 13.Qb3+ )
+8.Rxf6+ Ke4 9.Qb7+ Qd5 10.f3+ Kd4 11.Qb6+ Kc3 12.Rc6+ ) 6.Rd2+ Ke6 7.Rd6+ Kf5
+8.Qg7 Qg6 9.Rxf6+ Qxf6 10.Qg4# 1-0
+
+
+[Event "Blancas ganan.KyG p.49"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "1924"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k3p1p/3P2p1/8/3K2P1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g5 Kc6 2.Ke5 Kd7 3.Kd5 Kd8 4.Kc6 *
+
+
+[Event "Blancas ganan. K y G p.49"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "1933"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kp2/4p1p1/P1p5/1pP3r1/3R4/1P1K1P2/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a6 Rh4 (2...Rg1 2.a7 Ra1 3.Ra3 bxa3 4.a8=Q axb2 5.Qb7+ ) 2.Rd8 Kxd8 3.a7 *
+
+
+[Event "Paris. KyG p.49"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Alekhine,A"]
+[Black "Colle,E"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/8/6P1/P4P1P/2R1R1K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Qxd7 Rxd7 2.Re8+ Kh7 3.Rcc8 1-0
+
+
+[Event "Blancas ganan. KyG p.50"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1940"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppp2p2/8/4k3/8/4K3/PPP4P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a4 a5 2.c4 c5 3.b3 b6 4.h4 Kf5 5.Kf3 Ke5 6.Kg4 Ke4 7.h5 f5+ 8.Kh3 f4 9.h6 f3
+10.h7 f2 11.Kg2 *
+
+
+[Event "Blancas ganan. KyG p.51"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1924"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p7/P3p1p1/3p2P1/3P1PP1/7K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kg1 Kg7 2.Kf1 Kf7 3.Ke1 Ke7 4.Kf2 Kf6 5.Ke2 Ke6 (6...Kg6 6.Kd2 ) 6.f4 exf4
+7.gxf4 gxf4 8.Kf3 Ke5 9.g5 Kf5 10.g6 Kxg6 11.Kxf4 *
+
+
+[Event "Tablas. KyG p.51"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1940"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K6k/R7/8/8/8/8/5p1p/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ra1 Kg7 2.Kb7 Kf6 3.Kc6 Ke5 4.Kc5 Ke4 5.Kc4 Ke3 6.Rh1 Kf3 7.Kd3 Kg2 8.Ke2 Kxh1
+9.Kxf2 (9.Kf1 ) 1/2-1/2
+
+
+[Event "Holanda. KyG p.51"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "Alekhine"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/5pk1/1R5p/6pP/1p1r2P1/5P2/5K2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ke2 Rf3 2.Ke1 (2.Rd5 Rf5 3.Rd2 Rb5 ) (2.Rb7 Kf5 3.Rb5+ Ke4 4.Rxh5 Kd4 5.Rb5
+Kc4 6.Rb8 Rf5 7.Ke3 Kc3 8.Rc8+ Kb2 9.Rh8 Kc2 10.Rc8+ Kb1 11.Rh8 b2 12.h5 Rf3+
+13.Kd2 Ka2 14.Ra8+ Ra3 15.Rb8 b1=Q ) 3...f5 (3...Rc3 3.Kd2 Rc2+ 4.Ke3 b2 5.f3 )
+3.Rb6+ Kf7 4.Rh6 f4 (5...Rc3 5.Kd2 (5.Rxh5 b2 6.Rh7+ Kg6 7.Rb7 Rc1+ ) 6...Rc2+
+6.Ke3 b2 7.Rb6 Ke7 8.f4 Kd7 9.Kd4 Kc7 10.Rb3 Kc6 11.Rb8 Rg2 12.Rb3 Rxg3 13.Rxb2
+Rh3 14.Ke5 Rxh4 15.Rg2 Rh3 16.Kxf5 g3 17.Ke4 h4 18.Kf3 Kd6 19.Re2 Rh1 20.f5 Rf1+
+21.Kg4 Rf2 22.Re1 g2 23.Rg1 ) 5.Rxh5 Rc3 6.Rb5 f3 7.Kd2 Rc2+ 8.Ke3 b2 9.Kf4 Rc4+
+10.Ke3 Rc2 1/2-1/2
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Euwe,M"]
+[Black "1956"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N1k5/1p4pp/1P6/P3K3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nc5 Kd5 2.Nb7 Ke5 3.Nd8 g4 4.Nb7 Kd5 5.Kf4 Kc6 6.Nc5 Kd5 7.Ne4 h4 8.Nf6+ Kc4
+9.Nxg4 Kb3 10.Ne5 Kxa3 11.Nc6 *
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Botvinnik,M+Kaminer,S"]
+[Black "1925"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6q1/6b1/4p2k/8/3n1P2/Q2B2P1/K7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g4+ Kh4 2.Bh6 Qxh6 3.Qh2+ Kg5 4.Qd2+ Nf4 5.Qd8# 1-0
+
+
+[Event "Blancas ganan. KyG p.52"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1939"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/p7/p2p2K1/P2P4/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kf5 (1.Kf5 Kb6 2.Ke5 Kc6 3.Ke6 Kc7 4.Kxd5 Kd7 5.Kc5 Kc7 6.d5 Kd7 7.Kb6 Kd6
+8.Kxa6 Kxd5 9.Kxa5 Kc6 ) 2...Kb6 (2...Kc6 2.Ke6 ) (2...Kc7 2.Ke5 ) 2.Kf6 Kb7
+3.Kf7 Kb8 (4...Kb6 4.Ke8 Kc6 5.Kd8 ) 4.Ke6 Kc7 5.Ke7 Kc6 6.Kd8 Kd6 7.Kc8 Kc6
+8.Kb8 Kb6 9.Ka8 *
+
+
+[Event "Blancas ganan. KyG p.53"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1941"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/2R1P3/6k1/6p1/8/8/4r3/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e8=Q+ (1.Rc2 Re4 2.e8=Q+ Rxe8+ 3.Kxe8 Kf5 4.Rg2 g4 5.Kf7 Kf4 6.Kg6 g3 7.Kh5
+Kf3 ) 2...Rxe8+ 2.Kxe8 Kf5 3.Rg7 g4 4.Kf7 Kf4 5.Kg6 g3 6.Kh5 Kf3 7.Kh4 g2 8.Kh3
+*
+
+
+[Event "Negras juegan,blancas ganan.KyGp.53"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1944"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kpK/8/6P1/1b5N/7P/8/8 b - - 0 2"]
+[TimeMode "normal"]
+
+2...Bd2 2.Nf3 Bc3 (3...Bf4 3.h4 Bg3 4.h5 Bf4 5.g6+ Kf6 6.Ne5 Bxe5 (7...Kxe5
+7.Kxg7 ) 7.h6 ) 3.h4 Bb2 4.h5 Bc3 5.Nh4 (5.g6+ Ke6 ) 6...Bd2 6.g6+ (6.h6 g6 )
+7...Kf6 7.Nf5 Kxf5 8.Kxg7 Kg5 9.Kh7 Bc3 10.h6 *
+
+
+[Event "Blancas ganan. KyG p.54"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1945"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5pk1/1p5p/1P5P/8/6P1/6K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kf2 Kf5 2.Kf3 Ke5 3.g4 hxg4+ 4.Kxg4 Ke4 5.h5 f5+ 6.Kh3 f4 7.h6 f3 8.h7 f2
+9.Kg2 *
+
+
+[Event "Blancas ganan. KyG p.54"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1949"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5B2/K7/2R1P3/k7/2r5/1b2p3/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.e7 Re4 2.Rc5+ Ka4 3.Rf5 e2 4.Rf4 e1=Q 5.e8=Q+ *
+
+
+[Event "Blancas ganan. KyG p.55"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1952"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/6p1/8/2K2PP1/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kd5 Kf8 (2...Kh6 2.Ke5 Kg7 3.Kd6 Kf8 4.Kd7 Kg7 5.Ke8 Kg8 6.Ke7 Kg7 7.f5 g5
+8.Ke8 ) 2.Kd6 Ke8 3.f5 g5 4.Kc7 Ke7 5.Kc8 Kd6 6.Kd8 Ke5 7.Ke7 f6 8.Kf7 Kf4
+9.Kxf6 Kxg4 10.Kg6 *
+
+
+[Event "Tablas. KyG p.55"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "1952"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4kpp1/8/2KPP3/8/6P1/n7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.d5+ (1.Kc3 f5 2.d5+ Kf6 (3...Ke5 ) 3.exf5 Kxf5 4.Kb2 Ke5 5.Kxa1 Kxd5 6.Kb2 Kd4
+7.Kc2 Ke3 ) 2...Ke5 2.Kc3 f5 3.d6 Kxd6 4.exf5 gxf5 5.g4 fxg4 6.Kd4 Ke6 7.Ke4 Nc2
+8.Kf4 *
+
+
+[Event "Moscu. K y G p.56"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kotov,A"]
+[Black "Botvinnik,M"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/4b1p1/2Bp3p/5P1P/1pK1Pk2/8/8 b - - 0 2"]
+[TimeMode "normal"]
+
+2...g5 2.fxg5 (2.hxg5 h4 3.Bd6 Bf5 4.g6 Bxg6 5.f5 Bxf5 6.Kxb3 Kg2 ) 3...d4+
+3.exd4 (3.Bxd4 Kg3 4.g6 Kxh4 5.Kd2 Kh3 6.Bf6 h4 7.Ke2 Kg2 ) 4...Kg3 4.Ba3 Kxh4
+5.Kd3 Kxg5 6.Ke4 h4 7.Kf3 Bd5+ 0-1
+
+
+[Event "AVRO,Rotterdam.KyG p.56"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "Capablanca"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p3q1kp/1p2Pnp1/3pQ3/2pP4/1nP3N1/1B4PP/6K1 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ba3 Qxa3 2.Nh5+ gxh5 3.Qg5+ Kf8 4.Qxf6+ Kg8 5.e7 (5.Qf7+ Kh8 6.g3 (6.e7 Qc1+
+7.Kf2 Qd2+ 8.Kg3 Qg5+ (9...Qxc3+ 9.Kh4 Qxd4+ 10.Kxh5 Qe5+ 11.Kg4 Qe4+ 12.Kh3
+Qe3+ 13.g3 Qh6+ 14.Kg2 Qd2+ 15.Qf2 ) 9.Kf3 Nxd4+ 10.cxd4 (10.Kf2 Qd2+ )
+11...Qg4+ 11.Ke3 Qe4+ 12.Kf2 Qxd4+ ) 7...Nd2 (7...Qc1+ 7.Kg2 Qc2+ 8.Kh3 ) (
+7...Nxd4 7.e7 Ne2+ 8.Kf2 Qc5+ 9.Kxe2 ) 7.e7 Nf3+ 8.Kg2 Qb2+ 9.Kxf3 Qxc3+ 10.Kg2 )
+6...Qc1+ 6.Kf2 Qc2+ 7.Kg3 Qd3+ 8.Kh4 Qe4+ 9.Kxh5 Qe2+ 10.Kh4 Qe4+ 11.g4 (11.Kh3 )
+12...Qe1+ 12.Kh5 1-0
+
+
+[Event "Moscu. K y G p.57"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Botvinnik,M"]
+[Black "Bronstein,D"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2qrk1/b1pb2pp/p2p1n2/1P1Ppp2/N7/1Q2PPP1/PP1BN1BP/R3K2R w HA - 0 1"]
+[TimeMode "normal"]
+
+1.b6 Bxa4 2.b7 Bxb3 3.bxa8=Q Bb6 4.axb3 *
+
+
+[Event "Blancas ganan. K y G p.58"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kusnezov,A+Sacharov,B"]
+[Black "1955"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B1r3R1/2k4p/b1P1K1P1/8/2Pp4/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rg7+ (1.Rxc8+ Bxc8+ ) (1.gxh7 Rxg8 2.hxg8=Q Bxc4+ ) 2...Kb6 (2...Kb8 2.Bb7
+Bxb7 3.Rxb7+ Ka8 4.gxh7 d3 5.Rd7 Rh8 6.c7 ) 2.Bb7 Bxc4+ 3.Ke5 (3.Kf6 Rf8+ 4.Ke7
+Rg8 5.Rxg8 Bxg8 ) 4...Rh8 4.Kxd4 Bg8 5.c7 Kxb7 6.c8=Q+ Kxc8 7.Rc7+ Kxc7 8.g7 *
+

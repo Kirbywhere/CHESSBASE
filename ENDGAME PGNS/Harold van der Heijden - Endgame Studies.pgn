@@ -1,0 +1,454 @@
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "2nd Hon. Mention"]
+[Black "Ceskoslovensky Sach 1999"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "N3kr2/1p6/3P4/PP1K4/8/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.a6 bxa6 2.bxa6 Kd8 3.Kc6!! ( {Thematic try:} 3.a7? Rf5+ 4.Kc6 Ra5 5.Nc7 Rxa7!
+{reciprocal zugzwang! (see main line after 5.Sc7)} 6.Kb6 Rxc7 7.dxc7+ Kc8 8.Kc6
+{stalemate} ) 4...Rf7 4.a7! (4.Nc7? Kc8! 5.Kb6 (5.a7 Rxc7+! 6.dxc7 {stalemate} )
+(5.Ne6 Rh7! {This is a second reciprocal zugzwang with BTM: 6...Rf7 7.Sc5! Kb8
+8.d7 Rf8 9.Se6! attacks the Rook 9...Rh8 10.Kb6!; or 8...Rf6+ 9.Se6!! Rxe6+
+10.Kd5 wins.} 6.Nc5 Kb8 7.d7 Rh8 8.Ne6 Ka7! 9.Kb5 Rh5+! 10.Kc6 Rh8
+{positional draw} ) 6...Rf6! 6.a7 Rxd6+ 7.Kb5 Rd5+! 8.Kb4 Rd4+ 9.Kb3 Rd3+ 10.Kb2
+Rd2+ 11.Kb1 Rd1+ 12.Kb2 Rd2+ 13.Kb3 Rd3+ 14.Kb4 Rd4+ 15.Kb5 Rd5+
+{positional draw} ) 5...Rxa7 5.Nc7! {reciprocal zugzwang} 6...Ra1 6.Ne6+ Ke8
+7.d7+ 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "3rd Commendation"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/3P4/2K5/1P5n/2k5 w - - 0 1"]
+[TimeMode "normal"]
+
+1.b3! ( {Festina Lente! (hasten slowly). Thematic try:} 1.b4? Ng4!
+{reciprocal zugzwang} 2.b5 Nf6!
+{another reciprocal zugzwang, see main line after 3.b5!} 3.b6 (3.Kc4 Kd2 4.d5
+Ke3 5.Kc5 Ke4! {draws, e.g.} 6.d6 Nd7+ 7.Kc6 Ne5+ 8.Kc7 Kd5 9.d7 Nxd7 10.Kxd7
+Kc5 ) 4...Nd5+ ) 2...Ng4 2.b4! Nf6 3.b5! Kd1 4.Kd3! Ke1 ( {second main line:}
+5...Nd7 5.d5! Kc1 6.Kc3! Kb1 7.Kb3! Ka1 8.d6! Kb1 9.Kc4 Kc2 10.Kd5 ) 5.b6! Kf2
+6.b7 Nd7 7.Ke4! Nb8 8.Ke5 Ke3 9.d5 Na6 10.Kf5!! (10.d6? Nc5! 11.b8=Q (11.b8=N
+Kd3 12.Kd5 Ne4 13.d7 Nf6+ ) 12...Nd7+ ) 11...Kd4 11.d6 Nb8 12.Ke6 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "4th Prize"]
+[Black "Vandiest-80 JT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6P1/8/8/1K3p2/3p4/p3P3/4k3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g8=Q dxe2 2.Qg1+! ( {Thematic try:} 2.Qxa2? Kf2!
+{and this is the first reciprocal zugzwang position with WTM:} 3.Kc3 (3.Qb2??
+Kf1! {and Black wins!} ) (3.Qc2 f3! 4.Kc3 Kf1! {and Qc2-c4 is not possible.} )
+4...f3 {and now we have the second reciprocal zugzwang position with WTM.} 4.Kd3
+(4.Qc2 Kf1 {Qc4 not possible} ) (4.Kd4 Kf1 5.Qc4 {Now this move is possible!}
+6...Kg2! {but now Qg4+ is prevented.} ) (4.Qa7+ Kf1! 5.Qa6 Kg2!
+{and White is not able to check on g4, e.g.} 6.Qg6+ Kf1 7.Qd3 Kg2 8.Qe4 (8.Kd2
+e1=Q+! 9.Kxe1 f2+ ) 9...e1=Q+! 9.Qxe1 f2 ) 5...Kf1! ) 3...Kd2 3.Qd4+ Ke1 4.Qa1+
+Kf2 5.Qxa2! {1st reciprocal zugzwang} 6...f3 6.Kc3! {2nd reciprocal zugzwang}
+7...Kf1 7.Qc4! Kf2 8.Qh4+ 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "3rd Commendation"]
+[Black "Chess Clinic ty"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/7P/8/n7/P7/2K5/r6k w - - 0 1"]
+[TimeMode "normal"]
+
+1.h7 Ra2+ 2.Kb3 Rh2 3.Kxa4 Kg2 4.Kb4!! ( {Thematic try:} 4.Kb5? Kf3 5.a4 Ke4
+6.a5 Kd5! {reciprocal zugzwang with WTM. Compare this with the main line after
+9.Kb5. Now White is lost.} 7.a6 (7.Kb6 {fails to e.g.} 8...Kc4 8.a6 Rh6+ 9.Kb7
+Kb5 10.a7 Rxh7+ 11.Kb8 Kb6 12.a8=N+ Kc6 ) 8...Rb2+
+{Now wK cannot play to a6, so} 8.Ka5 Kc5 9.Ka4 Rh2 ) 5...Kf3 5.a4 Ke4 6.a5 Kd5
+7.Kb5! {reciprocal zugwang with BTM!} 8...Rb2+ (8...Rh3 8.a6 Rb3+ 9.Ka4 ) (
+8...Rxh7 8.a6 ) (8...Rh1 {at first sight, this move doesn't change much, but:}
+8.a6 Rb1+ 9.Ka4 Kc4?? 10.h8=Q {protects a1.} ) (8...Rh6 8.a6 Rxh7 9.Kb6 Kc4
+10.a7 ) 8.Ka6! Rh2 9.Kb5! Rb2+ 10.Ka6 Rb8 11.Ka7 Rh8 12.Kb6! Kd6 13.a6 Rb8+
+14.Ka7 Kc7 15.h8=Q Rxh8 {stalemate.} 1/2-1/2
+
+
+[Event "Emilian Dobrescu/Harold van der Heijden"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "1st Prize"]
+[Black "Israel-50 JT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4Q3/p2RP3/8/8/nq2N3/1b1p4/k2P4/2KN4 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nec3+ Ka1 2.Nxa4 Qa3+ 3.Nab2 Qc5+ 4.Nc3! ( {Thematic try:} 4.Nc4? Qxc4+ 5.Nc3
+Qa6! 6.Rxa7 Qxa7 ) 5...Qg1+ 5.Nbd1 Qc5 6.Rxa7+! Qxa7 7.Na4! Qc7+ 8.Ndc3 Qh2!!
+9.Nb2 Qg1+ 10.Ncd1 Qc5+ 11.Nc4!! Qxc4+ 12.Nc3 Qa6 13.Nb5!! Qf6 14.Qa8+ Ba2
+15.Qxa2+ (15.Nc3? Qa6!! 16.Qe4 Qa3+! 17.Kd1 Bb3+ 18.Ke1 Qc1+ 19.Kf2 Qxd2+ 20.Kg1
+Qc1+ 21.Kf2 Qd2+ 22.Kg3 Qxc3 23.e8=Q d2+ ) 16...Kxa2 16.Nc3+ Ka1! 17.e8=Q Qc6!
+18.Qe4! 1-0
+
+
+[Event "Harold van der Heijden/John Beasley"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "special prize"]
+[Black "Diagrammes 2000"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/4n3/K1P5/P1P5/Bk6 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Bb2! Nd2 2.c4!! Nxc4+ 3.Kb4! (3.Kb3? Nxb2 ) 4...Nxb2 4.Kb3! Kc1! 5.a3!!
+{Festina Lente!} (5.a4? Nxa4 6.Kxa4 Kxc2 ) 6...Nd1 6.a4! Ne3 7.a5! Nd5 8.a6! Nc7
+9.a7 Nb5 10.a8=Q {or a8R; Excelsior!} 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "1st/2nd Prize"]
+[Black "Hungarian Chess Fed. 2000"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4R3/7P/2N5/8/1N5K/2r5/Pb2Pr2/k7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.h8=Q Rh2+ 2.Kg5! (2.Kg4? Rxh8 3.Rxh8 Rc4+
+{and a trick as in the main line doesn't work now} 4.Nd4 {e.g.} 5...Rxd4+ 5.e4
+Rxe4+ 6.Kf5 Rxb4 ) 3...Rxh8 3.Rxh8 Rc5+ 4.Ne5!! Rxe5+ 5.Kf4! Rc5 6.Rh1+ Rc1
+7.Rxc1+ Bxc1+ 8.Ke4! Bd2 9.Kd3!! (
+{White surprisingly has to sacrifice his seocnd knight.} 9.a3? {doesn't work}
+10...Kb2 10.Kd3 Bf4!! 11.a4 Kb3 12.Nd5 Bb8! 13.a5 Ka4 14.a6 Kb5
+{and thanks to the manoeuvre Bf4-b8, Black has stopped white's a-pawn.} )
+10...Bxb4 10.Kc4 Bd2 11.Kb3! Be3 12.a3!! ( {Thematic try:} 12.a4? Kb1
+{reciprocal zugzwang with WTM} 13.a5 Kc1! 14.Kc3 Bd2+!
+{that's the trick, compare this with the main line.} ) 13...Kb1 13.a4 Kc1
+14.Kc3! Bd2+ 15.Kd3! Bb4 16.Kc4! {with the text-move wK for the fourth time
+(9.Kd3, 10.Kc4, 15.Kd3, and 16.Kc4) wins an important tempo by attacking bB
+(Reti-manoeuvre).} 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "1st Hon. Mention"]
+[Black "Nadareishvili-80 MT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4P3/2P5/2K5/3p4/2pP4/Rbk5 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ra3! Ba2+! 2.Kxd3 Bxe6 3.Rc3! Kd1! 4.Rxc2 Bf5+ 5.Kc3 Bxc2 6.d3! (6.d4?
+{Festina Lente! Thematic try:} 7...Be4! 7.Kc4 Kd2 8.d5 Ke3 9.c6 Kf4 10.c7 Bf5 )
+7...Ba4 7.d4! Ke2 8.d5! Ke3 9.c6 Ke4 10.Kc4 Ke5 11.Kc5 Bd1 12.d6 Ke6 13.d7 Ke7
+14.Kb6 Kd8 15.c7+ Kxd7 16.Kb7 Bf3+ 17.Kb8 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "?"]
+[Black "HMC Nieuws"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "n4b1r/1N4p1/2k3Bp/1R6/2K5/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nd8+ Kc7 2.Nf7 Nb6+ 3.Kb3!! ( {First thematic try:} 3.Kd4? Rg8 4.Bh7 Nd7
+5.Bxg8 Nf6 6.Ra5 Kb6 7.Ra8 Bc5+ 8.Ke5 Kb7 9.Rd8 Kc7 10.Ke6 h5! 11.Ra8 Kb7!
+12.Ra5 Kb6! 13.Ra8 Kb7! 14.Rd8 Kc7 {positional draw!} ) (
+{Second thematic try:} 3.Kd3? Rg8 4.Bh7 Nd7 5.Bxg8 Nf6 6.Ra5 Kb6 7.Re5 Ba3!
+8.Re6+ Kb5 9.Nxh6 Nd7! 10.Ng4 Nc5+ {draws} ) 4...Rg8 4.Bh7 Nd7 5.Bxg8 Nf6 6.Ra5!
+Kb6 7.Re5! (7.Ra8? Be7! 8.Ne5 Kb7! {domination} ) (7.Ra2? Bc5! 8.Kc4 Be7 9.Rg2
+Nxg8 10.Rxg7 Nf6 11.Nxh6 Bd8! {draws} ) 8...Nxg8 8.Re8 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "1st Prize"]
+[Black "Suomen Tehtäväniekat 1999-00"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/1B1n4/2N3R1/4p3/2kpKp1N/3r4 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ba4+ Kc1 2.Bxd1 Nc3+ 3.Kxe3! f1=Q 4.Nxf1 Nxd1+ 5.Kf3! Nf2! 6.Kxf2 d1=Q 7.Rg1!!
+Kb1 (8...Qc2+ 8.Nfd2+ Qd1 9.Nb3+ Kc2 10.Rxd1 Kxd1 11.Ne3# ) 8.Nfd2+! Ka2 9.Rg7!!
+(9.Rxd1? {stalemate} ) ( {White wants to threaten mate alonmg the a-file. But
+the other Rook-moves with the same plan surprisingly fail!} 9.Rg6? Qa4 10.Rb6
+Qa7! {pinning the Rook} ) (9.Rg5? Qa4! {and obviously} 10.Rb5??
+{is not a good idea} 11...Qxb5 ) (9.Rg3? Qa4! ) (9.Rg8? Qa4 {or Qh1} 10.Rb8 Qa7+
+) 10...Qa4 10.Rb7 Qa6 11.Rb2+ Ka1 12.Nb3# 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "1st/2nd Prize"]
+[Black "Nadareishvili-80 MT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/k2p1P2/r7/1KPP4/3N4 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nc3+ dxc3+ 2.dxc3 {full-point reciprocal zugzwang!} 3...Ra1 3.Kxa1 Kb5 4.Ka2 (
+4.Kb2? Kc4 {reciprocal zugzwang with WTM} ) 5...Kc4 5.Kb2
+{reciprocal zugzwang with WTM} 6...Kd5 6.Kb3 Ke4 7.Kc4!
+{King in front of pawn!} ( {Not} 7.Kb4? Kxf4 8.c4 Ke5! ) 8...Kxf4 8.Kd4! Kg3
+9.c4 f4 10.c5 f3 11.c6 f2 12.c7 f1=Q 13.c8=Q Qd1+ 14.Kc3!
+{King in front of pawn!} (14.Ke3 Qe1+ 15.Kd3 Qd1+ 16.Kc3 {loss of time} ) (
+14.Ke4? Qe2+! 15.Kd4 Qd2+! {draws} ) 15...Qe1+ 15.Kc4! (15.Kd3 Qd1+ 16.Kc3
+{loss of time} ) (15.Kb3 Qb1+ 16.Kc3 {loss of time} ) 16...Qf1+ 16.Kc5! (16.Kb4
+Qb1+ 17.Kc3 {loss of time} ) (16.Kd4 Qd1+ 17.Kc3 {loss of time} ) (16.Kd5? Qd1+
+{draws} ) 17...Qg1+ 17.Kc6! (17.Kb4? Qb1+ 18.Kc3 {loss of time} ) (17.Kd5? Qd1+ )
+(17.Kd6? Qd1+ ) 18...Qh1+ 18.Kc7! {and wins, e.g.} (18.Kd7? Qd1+ ) (18.Kb6? Qb1+
+) 19...Qd5 (19...Qe4 19.Qg8+! Kf3 20.c4! ) 19.Kb6! 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "1st Prize"]
+[Black "Micu-60 JT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5R2/5n1B/5P1P/8/4N3/Kp6/pp5P/k6r w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nd2! b1=N+! 2.Bxb1! axb1=Q 3.Nxb1! (3.Nxb3+? Qxb3+ 4.Kxb3 Nxh6 ) 4...Nxh6!
+4.Nd2! b2 5.Rb8! b1=Q 6.Rxb1+! (6.Nxb1? Rxb1 ) 7...Rxb1 7.Nb3+! (
+{Thematic try} 7.Nxb1? Kxb1 8.Kb3 Kc1! 9.Kc3 Kd1! ) 8...Rxb3+ 8.Kxb3 Kb1 9.Kc3!
+Kc1 10.h3!! {Festina Lente!} (10.h4? Kd1! 11.Kd3 (11.Kd4 Nf5+! 12.Ke5 Nxh4 )
+12...Ng4! 12.f7 Ne5+ ) 11...Kd1 (11...Kb1 11.h4! Kc1 12.h5! Kd1 13.Kd4! Kd2
+14.Ke4! Ke2 15.Kf4! Kf2 16.Kg5 ) 11.Kd3! Ke1 12.Ke3! Kf1 13.Kf3! Kg1 14.Kg3! Kh1
+15.h4! Kg1 16.h5 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "1st/2nd Prize"]
+[Black "Tidskrift för Schack 2000"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6n1/8/5PK1/4P3/8/3k3n/7P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.f7! Ne7+ 2.Kf6! Nd5+ 3.Ke6! Ng5+ 4.Kxd5 Nxf7 5.e6! Nh6 6.h3!! (
+{Festina Lente! Thematic try} 6.h4? Ng8! 7.Ke5 Kc4! 8.Kd6 Kd4! 9.h5 Ke4! 10.e7
+Nxe7 11.Kxe7 Kf5 ) 7...Ng8 7.h4! Kc3 8.Kc5! Kd3 9.h5 Ke4 10.h6 Kf5 11.h7 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "2nd Hon. Mention"]
+[Black "Tidskrift för Schack 2000"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5pB1/k7/P7/P7/3n2KR/P7/r4b2 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rh6+ f6 2.Rxf6+ Kxa5 3.Rf5+ Ne5! 4.Rxe5+ Bb5 5.Rxb5+! ( {Try:} 5.Bf6? Rg1+!
+6.Kh2 Rf1! 7.Rxb5+ Kxa4 8.Rb6 Rf2+ 9.Kg3 Rxa2 10.Bb2 Ka5! 11.Rb8 Ra4 12.Bc3+ Ka6
+13.Bb4 Ka7! {Draw} ) 6...Kxa4 6.Rb7! (6.Rb8? Rg1+ ) 7...Rxa2 7.Bb2! Ka5 8.Ra7+
+1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "1st Hon. Mention"]
+[Black "Rezvov-80 JT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/2p5/1B6/1KR1p3/5n2/8/k2n4 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ba4! Ne3 2.Rxe4 Nd5+ 3.Ka3 Nc3 4.Rc4! (4.Rf4? c5! 5.Rxf3 Nb1+ 6.Kb3 Nd2+ )
+5...Nd2 5.Rxc6! Ndb1+ (6...Nxa4 6.Rc1+ {see main line} ) 6.Kb3! Nxa4 {Draw?}
+7.Rc1!! {Reciprocal zugzwang with BTM.} ( {Not} 7.Rc2? Nbc3! 8.Rc1+ Nb1
+{and the same reciprocal zugzwang, now with White to move; e.g.} 9.Kxa4 Kb2 )
+8...Nb2 8.Rc2 Nc4 9.Ra2# 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Commendation"]
+[Black "Kubbel-110 MT"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/4NN2/1r6/8/4p3/K3k3 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Ng3 Kd2 2.Nxe2 Kc2! 3.Nc1! {Black was threatening mate. Now we have a
+reciprocal zugzwang position (compare the line for move 5).} 4...Ra4+ 4.Na2 Rd4
+5.Nd3! {The third sacrifice by a Knight!} ( {Not} 5.Nc1? Rb4!
+{reciprocal zugzwang, now with White to move! (compare move 3).} 6.Ned3 Rb5!
+{and again a position of reciprocal zugzwang, e.g.} 7.Ka2 Ra5# ) 6...Rxd3 6.Nb4+
+{draws.} 1/2-1/2
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "1st Prize"]
+[Black "Uralski Problemist"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5KPp/5P1k/8/4b2n/8/8/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.g8=N+! {First Knight promotion} (1.g8=Q? Bd5+ 2.Kf8 Ng6+! ( {But not:}
+3...Bxg8 3.Kxg8 Ng6 4.f7 {reciprocal zugzwang! White draws.} ) 3.Ke8 Bxg8 $19 )
+2...Kg5 2.Kg7 Bg6 ( {Two other thematic lines are:} 3...Ng2 3.f7 Nf4 4.f8=N! ) (
+3...Nf3 3.f7 Nd4 4.f8=N! h5 5.Nf6 Nf5+ 6.Kf7! Nd6+ 7.Ke7 Nc8+ 8.Kf7 $10 ) (
+{Also} 3...h5 3.f7! Ng6 4.Nf6! ) 3.Nh6! (3.f7? Nf5+ 4.Kh8 Bxf7 {wins, e.g.}
+5.Kxh7 Bh5 6.Kh8 Bg6 ) 4...Ng2 ( {Another thematic line is:} 4...Nf3 4.f7 Nd4
+5.f8=N! ) (4...Nf5+ 4.Nxf5 Kxf5 5.Kh6 ( {or also} 5.f7 ) 6...Kxf6 {stalemate} )
+4.f7 Nf4 5.f8=N! {Second Knight promotion!} (5.f8=Q? Ne6+ ) (5.Kh8? Ne6 )
+6...Nh5+ 6.Kh8! Kxh6 7.Nxh7! Nf4 (8...Bxh7 {stalemate} ) (8...Bd3 8.Nf6! Nxf6
+{stalemate} ) 8.Nf6! (8.Nf8? Bf7 9.Ne6 Ng6# ) 9...Kg5 9.Nh7+! (9.Nd7? Be8!
+10.Nf8 Kf6! {wins, e.g.} 11.Nh7+ Kg6 12.Nf8+ Kf7 13.Nh7 Ng6# ) 10...Kh6 10.Nf6!
+{first positional draw} 11...Bf7 11.Ng8+! Kg6 12.Ne7+ (12.Nh6? Be6 $18 (
+13...Kxh6? {stalemate} )) 13...Kf6 13.Ng8+ Kg6 14.Ne7+ Kh6 15.Ng8+
+{second positional draw} 1/2-1/2
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "?"]
+[Black "Algemeen Dagblad"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5p2/8/4P1P1/8/5k1K/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Kh1! {Most people discover the key move only after elimination of all tries.} (
+{This breakthrough doesn't work:} 1.e5? fxe5 2.g5 e4 3.g6 e3 4.g7 e2 5.g8=Q e1=Q
+6.Qg3+ Ke2! {draws.} ) ( {Also not} 1.g5? fxg5
+{and Black has a nasty check with the g-pawn.} ) ( {The most obvious try is:}
+1.Kh3? Kf3! {and now nothing important has changed, and again Black draws.} 2.e5
+fxe5 3.g5 e4 4.g6 e3 5.g7 e2 6.g8=Q e1=Q ) 2...Kf1
+{Black tries to keep the position the same.} ( {After} 2...Kf3 2.e5 fxe5 3.g5 e4
+{White suddenly has:} (4...Kf2 4.g6 e4 5.g7 e3 6.g8=Q ) 4.Kg1! e3 5.Kf1 e2+
+6.Ke1 {and stops Black's pawn.} ) (
+{If Black's King plays in to the e-file, he will block the e-pawn:} 2...Ke3 2.e5
+(2.g5? fxg5 3.e5?? Kf2 4.e6 g4 5.e7 g3 6.e8=Q g2+ 7.Kh2 g1=Q+ 8.Kh3 Qg3# )
+3...fxe5 3.g5 e4 4.g6 ) (
+{And if the Black King plays to the g-file, he will block the g-pawn:} 2...Kg3
+2.e5 fxe5 3.g5 ) 2.e5! fxe5 3.g5 e4 4.g6 e3 5.g7 e2 6.g8=Q e1=Q
+{and again draw?} 7.Qg2# {No, there was an important change: Black is mated!}
+1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "4th Prize"]
+[Black "Paoli-95 JT"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7B/5pR1/P3k3/6K1/8/3n4/4n3/r7 w - - 0 1"]
+[TimeMode "normal"]
+
+1.Rg6+! {First Rook sacrifice.} 2...f6+ ( {If Black accepts:} 2...fxg6 2.Bxa1
+{the white a-pawn can't be stopped.} ) 2.Rxf6+ Kd5 ( {Another main line is:}
+3...Ke7 3.Re6+! {Second Rook sacrifice.} (3.Rf7+? {Thematic try:} 4...Kxf7
+4.Bxa1 Nc5 5.a7 Ne6+ 6.Kh4 Nc7 {and the a-pawn is stopped in time.} ) 4...Kxe6
+4.Bxa1 ) 3.Rf5+ ( {Thematic try:} 3.Rd6+? Kxd6 4.Bxa1 Kc6 {draws} ) 4...Ne5 (
+4...Kc6 4.Bxa1 Kb6 5.Rf6+ Ka7 6.Re6 Ndf4 7.Rd6 {and White wins.} ) 4.Rxe5+ Kc4 (
+{Another main line is:} 5...Kd6 5.Re6+! {Third Rook sacrifice} (
+{Thematic try:} 5.Rd5+? Kxd5 6.Bxa1 Kc6 {and the a-pawn will be stopped.} )
+6...Kxe6 6.Bxa1 ) 5.Re4+ Nd4 (6...Kd3 6.Bxa1 Kxe4 7.a7 ) 6.Rxd4+ Kc5 7.Rc4+!
+{Fourth Rook Sacrifice.} ( {Thematic try:} 7.Rd5+? Kxd5 8.Bxa1 Kc6 9.Bd4 Kc7!
+{and the a-pawn is stopped. Despite White's material advantage, it is a draw.} )
+8...Kxc4 8.Bxa1 Kb5 9.a7 {wins.} 1-0
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "3rd Prize"]
+[Black "Sakkélet"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p3/3p3R/3pN3/3k3K w - - 0 1"]
+[TimeMode "normal"]
+
+1.Nd4! Kc1 (2...Ke1 2.Kg2! d1=Q 3.Rh1+ Kd2 4.Rxd1+ Kxd1 5.Kf2 {is a draw.} )
+2.Nb3+ Kc2 3.Nxd2! Kxd2 4.Kg1!
+{This strange-looking move is the only one to draw.} ( {Thematic try:} 4.Kg2? e3
+5.Rh1 Ke2 6.Kg3 d2 7.Kf4 Kd3! 8.Ra1 e2 {Now the difference with the main line
+(move 11) is that wK is at f4 instead of f3.} 9.Ra3+ Kc2 10.Ra2+ Kb1 {wins} )
+5...e3 (5...Ke2 5.Rh2+! Ke1 6.Rh4 e3 7.Rh3! Ke2 8.Rh2+ Kd1 9.Rh3 Kd2 10.Rh1!
+{positional draw.} ) 5.Rh1!! {An even more surprising move! It's incredible
+that the manoeuvre Kh1-g1 and Rh3-h1 is the way to draw!} (5.Rh2+? e2 ) 6...Ke2 (
+6...Kd1 6.Rh3 Kd2 7.Rh1! {positional draw} ) (6...Ke1 6.Rh3! Kd2 7.Rh1!
+{positional draw.} ) 6.Rh2+! Kd1 7.Rh3! Kd2 8.Rh1!
+{Now Black has to try something else} 9...Kc2 9.Kg2 d2 10.Kf3! Kd3 11.Ra1!
+{Again the wR has to move to a corner.} 12...e2 {And now we have the same
+position as in the thematic try 4.Kg2?, with the difference that wK is at f3
+instead of f4. That's a big difference!} 12.Ra3+ Kc2 13.Ra2+ Kc1 ( {For if:}
+14...Kb1 14.Kxe2 {draws.} ) 14.Ra1+ {positional draw.} 1/2-1/2
+
+
+[Event "Harold van der Heijden"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "prize"]
+[Black "Rozlov-40 JT"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/5K2/1r6/k2P3P/8 w - - 0 1"]
+[TimeMode "normal"]
+
+1.d3!! {An incredible key move. Who would find this in an over-the-board game?} (
+{Thematic try:} 1.h4? Rh3 2.Kg5 Kb3 3.h5 Kc4 4.h6 Kd5 5.Kg6 Ke6 6.Kg7 Ke7 7.h7
+Rg3+ 8.Kh8 (8.Kh6 Kf7 9.h8=N+ Kf6 ) 9...Kf7
+{and there's no stalemate. Black mates quickly by for instance:} 9.d4 Re3 10.d5
+Re8# ) (1.d4? Rh3 2.d5 Kb3 3.d6 Kc4 ) (1.Kg4? Rb1! 2.h4 Kb3 3.h5 Kc4 4.h6 Kd5 )
+2...Rxd3 (2...Rb1 2.h4! Kb3 3.h5 Rh1 4.Kg5 {and now 4...Kc4 is not possible!} ) (
+2...Rb5 2.h4 {or first 2.Kg4} 3...Kb3 3.Kg4 Kc3 4.h5 Kd4 5.h6 Ke5 6.h7 Rb8 7.Kg5
+Ke6 8.Kg6 ) 2.h4 Kb3 3.h5 Kc4 4.h6 ( {Or} 4.Kf5! Kd5 5.h6! {= main line} )
+5...Kd5 5.Kf5! Rh3 6.Kg6 Ke6 7.Kg7! (7.h7? Rg3+ ) 8...Rg3+ 8.Kf8! Rh3 9.Kg7 Ke7
+10.h7 Rg3+ 11.Kh8 Kf7 {stalemate.} 1/2-1/2
+
